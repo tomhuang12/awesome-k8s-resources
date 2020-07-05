@@ -17,17 +17,14 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
 
 ## Contents
 
-- [Awesome Kubernetes Resources ![Awesome](https://awesome.re)](#awesome-kubernetes-resources-img-src%22httpsawesomere%22-alt%22awesome%22)
-  - [The Fiery Meter of AWSome](#the-fiery-meter-of-awsome)
-  - [Contents](#contents)
-  - [Open Source Repos](#open-source-repos)
-    - [Subsection](#subsection)
-  - [Commercial Tools and Libraries](#commercial-tools-and-libraries)
-    - [Subsection](#subsection-1)
-  - [Guides, Tutorials, Documentations, and Trainings](#guides-tutorials-documentations-and-trainings)
-    - [Subsection](#subsection-2)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [Open Source Repos](#open-source-repos)
+  - [Subsection](#subsection)
+- [Commercial Tools and Libraries](#commercial-tools-and-libraries)
+  - [Subsection](#subsection-1)
+- [Guides, Tutorials, Documentations, and Trainings](#guides-tutorials-documentations-and-trainings)
+  - [Subsection](#subsection-2)
+- [Contribute](#contribute)
+- [License](#license)
 
 
 ## Open Source Repos
