@@ -8,9 +8,12 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+* Community-authored repo with 50+ stars
+* Community-vouched repo with < 100 stars
+
+50+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.
+
+Pull requests might be left open for a period of time to let the community chime in and vouch for it. 
 
 Thank you for your suggestions!
 
