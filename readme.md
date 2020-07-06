@@ -17,28 +17,21 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
 
 ## Contents
 
-- [Open Source Repos](#open-source-repos)
+- [Tools and Libraries](#tools-and-libraries)
   - [Subsection](#subsection)
-- [Commercial Tools and Libraries](#commercial-tools-and-libraries)
-  - [Subsection](#subsection-1)
 - [Guides, Tutorials, Documentations, and Trainings](#guides-tutorials-documentations-and-trainings)
   - [Subsection](#subsection-2)
 - [Contribute](#contribute)
 - [License](#license)
 
 
-## Open Source Repos
+## Tools and Libraries
+Items with :green_heart: indicate that they are open source projects. 
 
-### Subsection
-- [List item](http://example.com)
+### Command Line Tools
+- :green_heart:[Kubebox](https://github.com/astefanutti/kubebox) :fire::fire::fire::fire: - Terminal and Web console for Kubernetes
 - [List item](http://example.com)
 
-
-## Commercial Tools and Libraries
-
-### Subsection
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 ## Guides, Tutorials, Documentations, and Trainings
 
