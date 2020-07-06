@@ -32,7 +32,7 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
 
 
 ## Tools and Libraries
-Items with :green_heart: indicate that they are open source projects. 
+Items with :green_heart: indicate open source projects. 
 
 ### Command Line Tools
 - :green_heart:[Kubebox](https://github.com/astefanutti/kubebox) :fire::fire::fire::fire: - Terminal and Web console for Kubernetes
