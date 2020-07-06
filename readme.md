@@ -26,7 +26,6 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
   - [Worker Node Operations](#worker-node-operations)
 - [Guides, Tutorials, Documentations, and Trainings](#guides-tutorials-documentations-and-trainings)
   - [Guides](#guides)
-  - [Tutorials](#tutorials)
   - [Blogs](#blogs)
 - [Contribute](#contribute)
 - [License](#license)
