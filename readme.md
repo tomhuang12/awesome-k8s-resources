@@ -29,6 +29,7 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
   - [Tutorials](#tutorials)
 - [Contribute](#contribute)
 - [License](#license)
+- [Blogs](#blogs)
 
 
 ## Tools and Libraries
