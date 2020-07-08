@@ -9,9 +9,10 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 * Community-authored repo with 50+ stars
-* Community-vouched repo with < 100 stars
+* Community-vouched repo with < 50 stars
+* Commercial tools and resources that are community-vouched
 
-50+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.
+We welcome newer projects. 50+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 50 stars and you can explain why it should be listed, please submit a pull request.
 
 Pull requests might be left open for a period of time to let the community chime in and vouch for it. 
 
