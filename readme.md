@@ -32,10 +32,11 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
   - [Development Tools](#development-tools)
   - [Data Processing and Machine Learning](#data-processing-and-machine-learning)
   - [Miscellaneous](#miscellaneous)
-- [Guides, Documentations, Blogs, and Trainings](#guides-documentations-blogs-and-trainings)
+- [Guides, Documentations, Blogs, and Learnings](#guides-documentations-blogs-and-learnings)
   - [Guides](#guides)
   - [Documentations](#documentations)
-  - [Blogs](#blogs)
+  - [Blogs and Videos](#blogs-and-videos)
+  - [Learnings](#learnings)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -65,6 +66,8 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[kops](https://github.com/kubernetes/kops) :fire::fire::fire::fire::fire: - `kops` helps you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes clusters from the command line.
 - :green_heart:[Bootkube](https://github.com/kubernetes-sigs/bootkube) :fire::fire::fire::fire: - Bootkube is a tool for launching self-hosted Kubernetes clusters.
 - :green_heart:[kube-aws](https://github.com/kubernetes-incubator/kube-aws) :fire::fire::fire::fire: - `kube-aws` is a command-line tool to create/update/destroy Kubernetes clusters on AWS.
+- :green_heart:[Minikube](https://github.com/kubernetes/minikube) :fire::fire::fire::fire::fire: - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows.
+- [Kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) - kubeadm performs the actions necessary to get a minimum viable cluster up and running.
 
 ### Automation and CI/CD
 - :green_heart:[Flux](https://github.com/fluxcd/flux) :fire::fire::fire::fire::fire: - Flux is a tool that automatically ensures that the state of a cluster matches the config in git.
@@ -98,6 +101,9 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Rook](https://github.com/rook/rook) :fire::fire::fire::fire::fire: - Rook is an open source cloud-native storage orchestrator for Kubernetes.
 - :green_heart:[OpenEBS](https://github.com/openebs/openebs) :fire::fire::fire::fire::fire: - OpenEBS is the most widely deployed and easy to use open-source storage solution for Kubernetes.
 - :green_heart:[Longhorn](https://github.com/longhorn/longhorn) :fire::fire::fire::fire: - Longhorn is a distributed block storage system for Kubernetes.
+- [Amazon EBS CSI Driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) - The Amazon Elastic Block Store Container Storage Interface (CSI) Driver provides a CSI interface used by Container Orchestrators to manage the lifecycle of Amazon EBS volumes.
+- [Amazon EFS CSI Driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) - The Amazon Elastic File System Container Storage Interface (CSI) Driver implements the CSI specification for container orchestrators to manage the lifecycle of Amazon EFS filesystems.
+- [Amazon FSx for Lustre CSI Driver](https://github.com/kubernetes-sigs/aws-fsx-csi-driver) - The Amazon FSx for Lustre Container Storage Interface (CSI) Driver implements CSI specification for container orchestrators (CO) to manage lifecycle of Amazon FSx for Lustre filesystems.
 
 ### Testing and Troubleshooting
 - :green_heart:[kube-monkey](https://github.com/asobti/kube-monkey) :fire::fire::fire::fire: - It randomly deletes Kubernetes (k8s) pods in the cluster encouraging and validating the development of failure-resilient services.
@@ -168,23 +174,44 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Descheduler for Kubernetes](https://github.com/kubernetes-sigs/descheduler) :fire::fire::fire::fire: - Descheduling pods from nodes based on policies
 - :green_heart:[Kubeless](https://github.com/kubeless/kubeless) :fire::fire::fire::fire::fire: - `kubeless` is a Kubernetes-native serverless framework that lets you deploy small bits of code without having to worry about the underlying infrastructure plumbing.
 
-## Guides, Documentations, Blogs, and Trainings
+## Guides, Documentations, Blogs, and Learnings
 
 ### Guides
+- [A Beginner’s Guide to Kubernetes](https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6) - A comprehensive introduction to Kubernetes architecture
+- [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/) - Graphical explanations of Kubernetes
+- :green_heart:[Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) :fire::fire::fire::fire::fire: - Kubernetes The Hard Way guides you through bootstrapping a highly available Kubernetes cluster with end-to-end encryption between components and RBAC authentication.
+- [Troubleshooting Kubernetes deployments](https://learnk8s.io/a/troubleshooting-kubernetes.pdf) - A flow chart to troubleshoot a kubernetes deployment in case of issues
+- [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/) - A in-depth run-through of Kubernetes networking
+- [How to deploy a production-grade Kubernetes cluster on AWS](https://gruntwork.io/guides/kubernetes/how-to-deploy-production-grade-kubernetes-cluster-aws/#use-eks) - This guide will walk you through the process of configuring a production-grade Kubernetes cluster on AWS.
+- [Amazon EKS Best Practices Guide for Security](https://aws.github.io/aws-eks-best-practices/) - This guide provides advice about protecting information, systems, and assets that are reliant on EKS while delivering business value through risk assessments and mitigation strategies.
 - [Amazon EKS Node Drainer](https://github.com/aws-samples/amazon-k8s-node-drainer) - A guide and an example to cordon and evict all evictable pods from an EC2 node being terminated.
 - [Amazon EKS Workshop](https://www.eksworkshop.com/) - A comprehensive guide and list of tutorials to work with Amazon EKS.
 - [Moduler and Scalable Amazon EKS Architecture](https://s3.amazonaws.com/aws-quickstart/quickstart-amazon-eks/doc/amazon-eks-architecture.pdf) - A deployment guide that provides step-by-step instructions for deploying Amazon EKS clusters. 
-- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - `kubectl` cheat sheet
-- [Troubleshooting Kubernetes deployments](https://learnk8s.io/a/troubleshooting-kubernetes.pdf) - A flow chart to troubleshoot a kubernetes deployment in case of issues
-- [How to deploy a production-grade Kubernetes cluster on AWS](https://gruntwork.io/guides/kubernetes/how-to-deploy-production-grade-kubernetes-cluster-aws/#use-eks) - This guide will walk you through the process of configuring a production-grade Kubernetes cluster on AWS.
-- [Amazon EKS Best Practices Guide for Security](https://aws.github.io/aws-eks-best-practices/) - This guide provides advice about protecting information, systems, and assets that are reliant on EKS while delivering business value through risk assessments and mitigation strategies.
 
 ### Documentations
 - [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
+- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - `kubectl` cheat sheet
 
-### Blogs
+### Blogs and Videos
 - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
+- [Scaling Kubernetes to 2,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-2500-nodes/)
+- [Kubernetes at Reddit: Tales from Production](https://youtu.be/WTbIBqNcjoQ)
+- [Life of a Packet](https://www.youtube.com/watch?v=0Omvgd7Hg1I)
+- [How the Department of Defense Moved to Kubernetes and Istio](https://www.youtube.com/watch?v=YjZ4AZ7hRM0)
 
+### Learnings
+- [Katacoda](https://www.katacoda.com/courses/kubernetes/playground) - This is a Kubernetes playground, a safe place designed for experimenting, exploring and learning Kubernetes.
+- [Play with Kubernetes](https://labs.play-with-k8s.com/) - Play with Kubernetes is a playground which allows users to run K8s clusters in a matter of seconds.
+- [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) - This tutorial provides a walkthrough of the basics of the Kubernetes cluster orchestration system.
+- [A Beginner’s Guide to Kubernetes](https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6) - A comprehensive introduction to Kubernetes architecture
+- [Configuring Redis using a ConfigMap](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/) - A walkthrough that provides a real world example of how to configure Redis using a ConfigMap
+- [Exposing an External IP Address to Access an Application in a Cluster](https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/) - This guide shows how to create a Kubernetes Service object that exposes an external IP address.
+- [Example: Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) - This tutorial shows you how to build and deploy a simple, multi-tier web application using Kubernetes and Docker.
+- [StatefulSet Basics](https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/) - This tutorial provides an introduction to managing applications with StatefulSets.
+- [Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) - This tutorial shows you how to deploy a WordPress site and a MySQL database using Minikube.
+- [Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) - This tutorial shows you how to run Apache Cassandra on Kubernetes. Cassandra, a database, needs persistent storage to provide data durability.
+- [Running ZooKeeper, A Distributed System Coordinator](https://kubernetes.io/docs/tutorials/stateful-application/zookeeper/) - This tutorial demonstrates running Apache Zookeeper on Kubernetes using StatefulSets, PodDisruptionBudgets, and PodAntiAffinity.
+- [Set Up a CI/CD Pipeline with Kubernetes](https://www.linux.com/audience/enterprise/set-cicd-pipeline-kubernetes-part-1-overview/) - A end-to-end guide to set up a CI/CD Pipeline with Kuebernetes
 
 
 
