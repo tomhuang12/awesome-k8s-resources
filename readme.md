@@ -180,6 +180,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Descheduler for Kubernetes](https://github.com/kubernetes-sigs/descheduler) :fire::fire::fire::fire: - Descheduling pods from nodes based on policies
 - :green_heart:[Kubeless](https://github.com/kubeless/kubeless) :fire::fire::fire::fire::fire: - `kubeless` is a Kubernetes-native serverless framework that lets you deploy small bits of code without having to worry about the underlying infrastructure plumbing.
 - :green_heart:[Agones](https://github.com/googleforgames/agones) :fire::fire::fire::fire::fire: - Agones is a library for hosting, running and scaling dedicated game servers on Kubernetes.
+- :green_heart:[Shell-operator](https://github.com/flant/shell-operator) :fire::fire::fire: - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
 
 ## Guides, Documentations, Blogs, and Learnings
 
