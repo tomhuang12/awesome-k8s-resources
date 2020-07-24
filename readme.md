@@ -57,10 +57,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kubetail](https://github.com/johanhaleby/kubetail) :fire::fire::fire::fire: - Bash script that enables you to aggregate (tail/follow) logs from multiple pods into one stream.
 - :green_heart:[stern](https://github.com/wercker/stern) :fire::fire::fire::fire::fire: - Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod.
 - :green_heart:[kubectl tree](https://github.com/ahmetb/kubectl-tree) :fire::fire::fire::fire: - A kubectl plugin to explore ownership relationships between Kubernetes objects through owners.
-- :green_heart:[popeye](https://popeyecli.io/) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
-- :green_heart:[kube-capacity](https://github.com/robscott/kube-capacity) :fire::fire::fire: - This is a simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
-- :green_heart:[kube-score](https://github.com/zegl/kube-score) :fire::fire::fire: - `kube-score` is a tool that performs static code analysis of your Kubernetes object definitions.
-- :green_heart:[rakkess](https://github.com/corneliusweig/rakkess) :fire::fire::fire: - kubectl plugin to show an access matrix for server resources
 
 ### Cluster Provisioning
 - :green_heart:[kind](https://github.com/kubernetes-sigs/kind) :fire::fire::fire::fire::fire: - kind is a tool for running local Kubernetes clusters using Docker container "nodes".
@@ -122,6 +118,8 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Conftest](https://github.com/open-policy-agent/conftest) :fire::fire::fire::fire: - Conftest helps you write tests against structured configuration data.
 - :green_heart:[chaoskube](https://github.com/linki/chaoskube) :fire::fire::fire::fire: - `chaoskube` periodically kills random pods in your Kubernetes cluster.
 - :green_heart:[Chaos Mesh](https://github.com/pingcap/chaos-mesh) :fire::fire::fire::fire: - Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
+- - :green_heart:[popeye](https://popeyecli.io/) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
+- :green_heart:[kube-score](https://github.com/zegl/kube-score) :fire::fire::fire: - `kube-score` is a tool that performs static code analysis of your Kubernetes object definitions.
 
 ### Monitoring, Alerts, and Visualization
 - :green_heart:[Prometheus](https://github.com/prometheus/prometheus) :fire::fire::fire::fire::fire: - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.
@@ -139,6 +137,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[kubewatch](https://github.com/bitnami-labs/kubewatch) :fire::fire::fire::fire: - `kubewatch` is a Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels.
 - :green_heart:[Sloop](https://github.com/salesforce/sloop) :fire::fire::fire: - Sloop monitors Kubernetes, recording histories of events and resource state changes and providing visualizations to aid in debugging past events.
 - :green_heart:[BotKube](https://github.com/infracloudio/botkube) :fire::fire::fire: - BotKube integration with Slack or Mattermost helps you monitor your Kubernetes cluster, debug critical deployments and gives recommendations for standard practices by running checks on the Kubernetes resources.
+- :green_heart:[kube-capacity](https://github.com/robscott/kube-capacity) :fire::fire::fire: - This is a simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 
 ### Backup and Diaster Recovery
 - :green_heart:[katafygio](https://github.com/bpineau/katafygio) :fire: - katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository.
@@ -150,7 +149,8 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[kube-hunter](https://github.com/aquasecurity/kube-hunter) :fire::fire::fire::fire::fire: - kube-hunter hunts for security weaknesses in Kubernetes clusters.
 - [Kube-Scan](https://github.com/octarinesec/kube-scan) :fire::fire: - Kube-Scan gives a risk score, from 0 (no risk) to 10 (high risk) for each workload.
 - :green_heart:[Permission manager](https://github.com/sighupio/permission-manager) :fire::fire::fire: - Permission Manager is an application developed by SIGHUP that enables a super-easy and user-friendly RBAC management for Kubernetes.
-
+- :green_heart:[rakkess](https://github.com/corneliusweig/rakkess) :fire::fire::fire: - kubectl plugin to show an access matrix for server resources
+  
 ### Service Mesh
 - :green_heart:[Istio](https://github.com/istio/istio) :fire::fire::fire::fire::fire: - An open platform to connect, manage, and secure microservices.
 - :green_heart:[Linkerd](https://github.com/linkerd/linkerd) :fire::fire::fire::fire::fire: - Linkerd is a transparent service mesh, designed to make modern applications safe and sane.
@@ -198,7 +198,7 @@ Items with :green_heart: indicate open source projects.
 
 ### Documentations
 - [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
-- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - `kubectl` cheat sheet
+- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
 ### Blogs and Videos
 - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
