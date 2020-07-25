@@ -71,6 +71,8 @@ Items with :green_heart: indicate open source projects.
 
 ### Automation and CI/CD
 - :green_heart:[Flux](https://github.com/fluxcd/flux) :fire::fire::fire::fire::fire: - Flux is a tool that automatically ensures that the state of a cluster matches the config in git.
+- :green_heart:[Argo CD](https://github.com/argoproj/argo-cd) :fire::fire::fire::fire::fire: - Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
+- :green_heart:[Argo Rollouts](https://github.com/argoproj/argo-rollouts) :fire::fire::fire: - Argo Rollouts controller, uses the Rollout custom resource to provide additional deployment strategies such as Blue Green and Canary to Kubernetes.
 - :green_heart:[Helm Operator](https://github.com/fluxcd/helm-operator) :fire::fire: - The Helm Operator is a Kubernetes operator, allowing one to declaratively manage Helm chart releases.
 - :green_heart:[Flagger](https://github.com/weaveworks/flagger) :fire::fire::fire::fire::fire: - Flagger is a progressive delivery tool that automates the release process for applications running on Kubernetes.
 - :green_heart:[Argo Workflows](https://github.com/argoproj/argo) :fire::fire::fire::fire::fire: - Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
@@ -79,6 +81,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Skaffold](https://github.com/GoogleContainerTools/skaffold) :fire::fire::fire::fire::fire: - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
 - :green_heart:[Apollo](https://github.com/logzio/apollo) :fire::fire: - Apollo is a simple, lightweight, Continuous Deployment (CD) solution on top of Kubernetes.
 - :green_heart:[Spinnaker](https://github.com/spinnaker/spinnaker) :fire::fire::fire::fire::fire: - Spinnaker is an open-source continuous delivery platform for releasing software changes with high velocity and confidence.
+- :green_heart:[Argo Events](https://github.com/argoproj/argo-events) :fire::fire::fire: - Argo Events is an event-driven workflow automation framework for Kubernetes which helps you trigger K8s objects, Argo Workflows, Serverless workloads, etc.
 
 ### Cluster Resources Management
 - :green_heart:[Kruise](https://github.com/openkruise/kruise) :fire::fire::fire::fire: - Kruise consists of several controllers which extend and complement the Kubernetes core controllers for workload management.
@@ -196,10 +199,6 @@ Items with :green_heart: indicate open source projects.
 - [Amazon EKS Workshop](https://www.eksworkshop.com/) - A comprehensive guide and list of tutorials to work with Amazon EKS.
 - [Moduler and Scalable Amazon EKS Architecture](https://s3.amazonaws.com/aws-quickstart/quickstart-amazon-eks/doc/amazon-eks-architecture.pdf) - A deployment guide that provides step-by-step instructions for deploying Amazon EKS clusters. 
 
-### Documentations
-- [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
-- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-
 ### Blogs and Videos
 - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
 - [Scaling Kubernetes to 2,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-2500-nodes/)
@@ -208,6 +207,8 @@ Items with :green_heart: indicate open source projects.
 - [How the Department of Defense Moved to Kubernetes and Istio](https://www.youtube.com/watch?v=YjZ4AZ7hRM0)
 
 ### Learnings
+- [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
+- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [Katacoda](https://www.katacoda.com/courses/kubernetes/playground) - This is a Kubernetes playground, a safe place designed for experimenting, exploring and learning Kubernetes.
 - [Play with Kubernetes](https://labs.play-with-k8s.com/) - Play with Kubernetes is a playground which allows users to run K8s clusters in a matter of seconds.
 - [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) - This tutorial provides a walkthrough of the basics of the Kubernetes cluster orchestration system.
