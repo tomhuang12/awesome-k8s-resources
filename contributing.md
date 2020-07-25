@@ -14,6 +14,8 @@ Ensure your pull request adheres to the following guidelines:
 
 We welcome newer projects. 50+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 50 stars and you can explain why it should be listed, please submit a pull request.
 
+Please keep in mind that Kubernetes is a fast moving project, and resources can become obsolete quicker than other technologies.  Please make sure the resources you are contributing are still relevant.
+
 Pull requests might be left open for a period of time to let the community chime in and vouch for it. 
 
 Thank you for your suggestions!
