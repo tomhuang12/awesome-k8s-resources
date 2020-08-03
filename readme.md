@@ -210,6 +210,7 @@ Items with :green_heart: indicate open source projects.
 - [How the Department of Defense Moved to Kubernetes and Istio](https://www.youtube.com/watch?v=YjZ4AZ7hRM0)
 - [OPA Deep Dive](https://www.youtube.com/watch?v=Uj2N9S58GLU)
 - [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
+- [Service Mesh Comparison](https://servicemesh.es/)
 
 ### Learnings and Documentations
 - [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
