@@ -190,6 +190,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Agones](https://github.com/googleforgames/agones) :fire::fire::fire::fire::fire: - Agones is a library for hosting, running and scaling dedicated game servers on Kubernetes.
 - :green_heart:[Shell-operator](https://github.com/flant/shell-operator) :fire::fire::fire: - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
 - :green_heart:[Kubecost](https://github.com/kubecost/cost-model) :fire::fire::fire: - Kubecost models give teams visibility into current and historical Kubernetes spend and resource allocation.
+- :green_heart:[KubePug](https://github.com/rikatz/kubepug) :fire: - A tool to check deprecations before upgrading Kubernetes version
 
 ## Guides, Documentations, Blogs, and Learnings
 
