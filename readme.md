@@ -26,7 +26,7 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
   - [Storage](#storage)
   - [Testing and Troubleshooting](#testing-and-troubleshooting)
   - [Monitoring, Alerts, and Visualization](#monitoring-alerts-and-visualization)
-  - [Backup and Diaster Recovery](#backup-and-diaster-recovery)
+  - [Backup and Restore](#backup-and-restore)
   - [Security and Compliance](#security-and-compliance)
   - [Service Mesh](#service-mesh)
   - [Development Tools](#development-tools)
@@ -146,8 +146,9 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[kube-capacity](https://github.com/robscott/kube-capacity) :fire::fire::fire: - This is a simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 - :green_heart:[Lens](https://github.com/lensapp/lens) :fire::fire::fire::fire::fire: - Lens it's an useful, attractive, open source user interface (UI) for working with Kubernetes clusters.
 
-### Backup and Diaster Recovery
+### Backup and Restore
 - :green_heart:[katafygio](https://github.com/bpineau/katafygio) :fire: - katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository.
+- :green_heart:[Velero](https://github.com/vmware-tanzu/velero) :fire::fire::fire::fire::fire: - Velero (formerly Heptio Ark) gives you tools to back up and restore your Kubernetes cluster resources and persistent volumes.
 
 ### Security and Compliance
 - :green_heart:[kube-bench](https://github.com/aquasecurity/kube-bench) :fire::fire::fire::fire::fire: - kube-bench is a Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
