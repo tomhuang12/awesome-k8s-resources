@@ -84,6 +84,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Spinnaker](https://github.com/spinnaker/spinnaker) :fire::fire::fire::fire::fire: - Spinnaker is an open-source continuous delivery platform for releasing software changes with high velocity and confidence.
 - :green_heart:[Argo Events](https://github.com/argoproj/argo-events) :fire::fire::fire: - Argo Events is an event-driven workflow automation framework for Kubernetes which helps you trigger K8s objects, Argo Workflows, Serverless workloads, etc.
 - :green_heart:[Reloader](https://github.com/stakater/Reloader) :fire::fire::fire::fire: - Reloader can watch changes in `ConfigMap` and `Secret` and do rolling upgrades on Pods with their associated `DeploymentConfigs`, `Deployments`, `Daemonsets` and `Statefulsets`. 
+- :green_heart:[Drone](https://github.com/drone/drone) :fire::fire::fire::fire::fire: - Drone is a Container-Native, Continuous Delivery Platform
 
 ### Cluster Resources Management
 - :green_heart:[Kruise](https://github.com/openkruise/kruise) :fire::fire::fire::fire: - Kruise consists of several controllers which extend and complement the Kubernetes core controllers for workload management.
@@ -177,6 +178,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[ko](https://github.com/google/ko) :fire::fire::fire::fire: - `ko` is a tool for building and deploying Golang applications to Kubernetes.
 - :green_heart:[Makisu](https://github.com/uber/makisu) :fire::fire::fire::fire::fire: - Makisu is a fast and flexible Docker image build tool designed for unprivileged containerized environments such as Mesos or Kubernetes.
 - :green_heart:[Tye](https://github.com/dotnet/tye) :fire::fire::fire::fire: - Tye is a developer tool that makes developing, testing, and deploying microservices and distributed applications easier.
+- :green_heart:[kubectl-warp](https://github.com/ernoaapa/kubectl-warp) :fire::fire: - Kubernetes CLI plugin for syncing and executing local files in Pod on Kubernetes
 
 ### Data Processing and Machine Learning
 - :green_heart:[Volcano](https://github.com/volcano-sh/volcano) :fire::fire::fire: - Volcano is a batch system built on Kubernetes.
