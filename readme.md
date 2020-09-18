@@ -126,6 +126,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Chaos Mesh](https://github.com/pingcap/chaos-mesh) :fire::fire::fire::fire: - Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 - :green_heart:[popeye](https://popeyecli.io/) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 - :green_heart:[kube-score](https://github.com/zegl/kube-score) :fire::fire::fire: - `kube-score` is a tool that performs static code analysis of your Kubernetes object definitions.
+- :green_heart:[KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) :fire::fire::fire: - Through KubeInvaders you can stress Kubernetes cluster in a fun way and check how it is resilient.
 
 ### Monitoring, Alerts, and Visualization
 - :green_heart:[Prometheus](https://github.com/prometheus/prometheus) :fire::fire::fire::fire::fire: - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.
