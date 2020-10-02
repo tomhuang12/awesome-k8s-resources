@@ -241,7 +241,8 @@ Items with :green_heart: indicate open source projects.
 - [How to pass the Certified Kubernetes Administrator (CKA) exam on the first attempt](https://medium.com/faun/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e) - A guide to pass CKA exam
 - [Webinar: K8s with OPA Gatekeeper](https://www.youtube.com/watch?v=v4wJE3I8BYM)
 - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - A cheatsheet containing many helpful kubectl commands
-
+- [Ready-to-use commands and tips for kubectl](https://medium.com/flant-com/kubectl-commands-and-tips-7b33de0c5476)
+- [Certified Kubernetes Security Specialist - CKSS](https://github.com/ijelliti/CKSS-Certified-Kubernetes-Security-Specialist) - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam.
 
 ## Contribute
 
