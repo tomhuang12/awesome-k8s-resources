@@ -62,6 +62,7 @@ Items with :green_heart: indicate open source projects.
 ### Cluster Provisioning
 - :green_heart:[kind](https://github.com/kubernetes-sigs/kind) :fire::fire::fire::fire::fire: - kind is a tool for running local Kubernetes clusters using Docker container "nodes".
 - :green_heart:[k3s](https://github.com/rancher/k3s) :fire::fire::fire::fire::fire: - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 100 MB.
+- :green_heart:[k3d](https://github.com/rancher/k3d) :fire::fire::fire::fire: - k3d, like kind, is a tool for running local k3s clusters in docker. It's a single binary about 20 MB. You need to have docker installed.
 - :green_heart:[eksctl](https://github.com/weaveworks/eksctl) :fire::fire::fire::fire::fire: - `eksctl` is a simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2.
 - :green_heart:[kubespray](https://github.com/kubernetes-sigs/kubespray) :fire::fire::fire::fire::fire: - Deploy a production ready Kubernetes cluster
 - :green_heart:[kops](https://github.com/kubernetes/kops) :fire::fire::fire::fire::fire: - `kops` helps you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes clusters from the command line.
