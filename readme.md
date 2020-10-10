@@ -16,6 +16,7 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
 
 
 ## Contents
+- [Contents](#contents)
 - [Tools and Libraries](#tools-and-libraries)
   - [Command Line Tools](#command-line-tools)
   - [Cluster Provisioning](#cluster-provisioning)
@@ -34,9 +35,8 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
   - [Miscellaneous](#miscellaneous)
 - [Guides, Documentations, Blogs, and Learnings](#guides-documentations-blogs-and-learnings)
   - [Guides](#guides)
-  - [Documentations](#documentations)
   - [Blogs and Videos](#blogs-and-videos)
-  - [Learnings](#learnings)
+  - [Learnings and Documentations](#learnings-and-documentations)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -90,6 +90,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Grafana Tanka](https://github.com/grafana/tanka) :fire::fire::fire: - The clean, concise and super flexible alternative to YAML for your Kubernetes cluster.
 - :green_heart:[KubeDirector](https://github.com/bluek8s/kubedirector) :fire::fire: - KubeDirector uses standard Kubernetes (K8s) facilities of custom resources and API extensions to implement stateful scaleout application clusters.
 - :green_heart:[The Hierarchical Namespace Controller](https://github.com/kubernetes-sigs/multi-tenancy/tree/master/incubator/hnc) :fire::fire::fire: - Hierarchical namespaces make it easier to share your cluster by making namespaces more powerful.
+- :green_heart:[Kubenav](https://github.com/kubenav/kubenav) :fire::fire::fire: - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 
 ### Secrets Management
 - :green_heart:[Kubernetes External Secrets](https://github.com/godaddy/kubernetes-external-secrets) :fire::fire::fire: - Kubernetes External Secrets allows you to use external secret management systems, like AWS Secrets Manager or HashiCorp Vault, to securely add secrets in Kubernetes.
@@ -127,6 +128,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[popeye](https://popeyecli.io/) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 - :green_heart:[kube-score](https://github.com/zegl/kube-score) :fire::fire::fire: - `kube-score` is a tool that performs static code analysis of your Kubernetes object definitions.
 - :green_heart:[KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) :fire::fire::fire: - Through KubeInvaders you can stress Kubernetes cluster in a fun way and check how it is resilient.
+- :green_heart:[Kube DOOM](https://github.com/storax/kubedoom) :fire::fire::fire::fire: - The next level of chaos engineering is here! Kill pods inside your Kubernetes cluster by shooting them in Doom!
 
 ### Monitoring, Alerts, and Visualization
 - :green_heart:[Prometheus](https://github.com/prometheus/prometheus) :fire::fire::fire::fire::fire: - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.
@@ -196,6 +198,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Shell-operator](https://github.com/flant/shell-operator) :fire::fire::fire: - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
 - :green_heart:[Kubecost](https://github.com/kubecost/cost-model) :fire::fire::fire: - Kubecost models give teams visibility into current and historical Kubernetes spend and resource allocation.
 - :green_heart:[KubePug](https://github.com/rikatz/kubepug) :fire: - A tool to check deprecations before upgrading Kubernetes version
+- :green_heart:[AWS Controllers for Kubernetes](https://github.com/aws/aws-controllers-k8s) :fire::fire::fire::fire: - AWS Controllers for Kubernetes (ACK) lets you define and use AWS service resources directly from Kubernetes.
 
 ## Guides, Documentations, Blogs, and Learnings
 
@@ -212,6 +215,7 @@ Items with :green_heart: indicate open source projects.
 - [Amazon EKS Best Practices Guide for Security](https://aws.github.io/aws-eks-best-practices/) - This guide provides advice about protecting information, systems, and assets that are reliant on EKS while delivering business value through risk assessments and mitigation strategies.
 - [Amazon EKS Node Drainer](https://github.com/aws-samples/amazon-k8s-node-drainer) - A guide and an example to cordon and evict all evictable pods from an EC2 node being terminated.
 - [Kubernetes Working Group for Multi-Tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - This is a working place for multi-tenancy related proposals and prototypes.
+- [Kubernetes Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - This repository contains various use cases of Kubernetes Network Policies and sample YAML files to leverage in your setup.
 
 ### Blogs and Videos
 - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
