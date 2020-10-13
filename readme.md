@@ -105,6 +105,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[cert-manager](https://github.com/jetstack/cert-manager) :fire::fire::fire::fire::fire: - cert-manager is a Kubernetes add-on to automate the management and issuance of TLS certificates from various issuing sources.
 - :green_heart:[ksniff](https://github.com/eldadru/ksniff) :fire::fire::fire: - A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster.
 - :green_heart:[kubectl trace](https://github.com/iovisor/kubectl-trace) :fire::fire::fire: - `kubectl trace` is a kubectl plugin that allows you to schedule the execution of bpftrace programs in your Kubernetes cluster.
+- :green_heart:[Kube Karp](https://github.com/immanuelfodor/kube-karp) - Add a floating virtual IP to Kubernetes cluster nodes for load balancing easily based on the CARP protocol
 
 ### Storage
 - :green_heart:[Rook](https://github.com/rook/rook) :fire::fire::fire::fire::fire: - Rook is an open source cloud-native storage orchestrator for Kubernetes.
