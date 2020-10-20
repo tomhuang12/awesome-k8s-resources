@@ -6,6 +6,7 @@ Before submitting a pull request, verify it meets all requirements in the [Contr
 
 Why is this awesome?
 
---
+
+(https://github.com/cloud66-oss/habitus)
 
 Like this pull request?  Vote for it by adding a :+1:
