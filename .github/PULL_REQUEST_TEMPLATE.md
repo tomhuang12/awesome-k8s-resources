@@ -6,8 +6,7 @@ Before submitting a pull request, verify it meets all requirements in the [Contr
 
 Why is this awesome?
 
-:green_heart:[Habitus](https://github.com/cloud66-oss/habitus) :fire::fire::fire::fire: - Habitus is a standalone build flow tool for Docker. It builds Docker images based on their Dockerfile and a build.yml.
-:green_heart:[Habitus](https://github.com/cloud66-oss/habitus) :fire::fire::fire::fire: - Habitus is a standalone build flow tool for Docker. It builds Docker images based on their Dockerfile and a build.yml. 
+:green_heart:[Habitus](https://github.com/cloud66-oss/habitus) :fire::fire::fire::fire: - Habitus is a standalone build flow tool for Docker. It’s a command-line tool that builds Docker images based on their Dockerfile and a build.yml. 
 
 :green_heart:[Cooper](https://github.com/cloud66-oss/copper) :fire::fire: - A configuration file validator for Kubernetes. This is specifically useful with Kubernetes configuration files to enforce best practices, apply policies and compliance requirements.
 
