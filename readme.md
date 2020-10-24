@@ -217,6 +217,7 @@ Items with :green_heart: indicate open source projects.
 - [Amazon EKS Node Drainer](https://github.com/aws-samples/amazon-k8s-node-drainer) - A guide and an example to cordon and evict all evictable pods from an EC2 node being terminated.
 - [Kubernetes Working Group for Multi-Tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - This is a working place for multi-tenancy related proposals and prototypes.
 - [Kubernetes Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - This repository contains various use cases of Kubernetes Network Policies and sample YAML files to leverage in your setup.
+- [Kubernetes in a visual way, with sketchnotes](https://dev.to/aurelievache/kubernetes-sketchnotes-pods-4ib0) - A serie of articles explaining visually in sketchnotes Kubernetes concepts, components and tools with useful examples.
 
 ### Blogs and Videos
 - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
@@ -248,6 +249,8 @@ Items with :green_heart: indicate open source projects.
 - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - A cheatsheet containing many helpful kubectl commands
 - [Ready-to-use commands and tips for kubectl](https://medium.com/flant-com/kubectl-commands-and-tips-7b33de0c5476)
 - [Certified Kubernetes Security Specialist - CKSS](https://github.com/ijelliti/CKSS-Certified-Kubernetes-Security-Specialist) - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam.
+- [Kubernetes in a visual way, with sketchnotes](https://dev.to/aurelievache/kubernetes-sketchnotes-pods-4ib0) - A serie of articles explaining visually in sketchnotes Kubernetes concepts, components and tools with useful examples.
+- [Tips about Certified Kubernetes Application Developers (CKAD) exam](https://dev.to/aurelievache/tips-about-certified-kubernetes-application-developers-ckad-exam-287g) - Tips & tricks about how to pass the CKAD examen
 
 ## Contribute
 
