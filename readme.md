@@ -115,6 +115,7 @@ Items with :green_heart: indicate open source projects.
 - [Amazon FSx for Lustre CSI Driver](https://github.com/kubernetes-sigs/aws-fsx-csi-driver) - The Amazon FSx for Lustre Container Storage Interface (CSI) Driver implements CSI specification for container orchestrators (CO) to manage lifecycle of Amazon FSx for Lustre filesystems.
 
 ### Testing and Troubleshooting
+- :green_heart:[Cooper](https://github.com/cloud66-oss/copper) :fire::fire: - A configuration file validator for Kubernetes. This is specifically useful with Kubernetes configuration files to enforce best practices, apply policies and compliance requirements.
 - :green_heart:[kube-monkey](https://github.com/asobti/kube-monkey) :fire::fire::fire::fire: - It randomly deletes Kubernetes (k8s) pods in the cluster encouraging and validating the development of failure-resilient services.
 - :green_heart:[Kubetest](https://github.com/vapor-ware/kubetest) :fire: - Kubetest is a pytest plugin that makes it easier to manage a Kubernetes cluster within your integration tests.
 - :green_heart:[Litmus](https://github.com/litmuschaos/litmus) :fire::fire::fire: - Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments.
@@ -173,6 +174,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Open Service Mesh](https://github.com/openservicemesh/osm/) :fire::fire::fire::fire: - Open Service Mesh (OSM) is a lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 
 ### Development Tools
+- :green_heart:[Konfig](https://github.com/cloud66-oss/konfig) :fire: - Konfig is a Kubernetes friendly Rails gem. It can load configuration and secrets from both YAML or folders with individual files and present them to your application the same way.
 - :green_heart:[Telepresence](https://github.com/telepresenceio/telepresence) :fire::fire::fire::fire::fire: - Telepresence provides fast, realistic local development for Kubernetes microservices.
 - :green_heart:[Okteto](https://github.com/okteto/okteto) :fire::fire::fire::fire: - `okteto` accelerates the development workflow of Kubernetes applications.
 - :green_heart:[Tilt](https://github.com/tilt-dev/tilt) :fire::fire::fire::fire::fire: - Tilt powers multi-service development and makes sure they behave.
