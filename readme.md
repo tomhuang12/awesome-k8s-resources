@@ -163,6 +163,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Konstraint](https://github.com/plexsystems/konstraint) - Konstraint is a CLI tool to assist with the creation and management of constraints when using Gatekeeper.
 - :green_heart:[kube-bench](https://github.com/aquasecurity/kube-bench) :fire::fire::fire::fire::fire: - kube-bench is a Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
 - :green_heart:[kube-hunter](https://github.com/aquasecurity/kube-hunter) :fire::fire::fire::fire::fire: - kube-hunter hunts for security weaknesses in Kubernetes clusters.
+- :green_heart:[KubeLinter](https://github.com/stackrox/kube-linter) :fire::fire::fire: - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - :green_heart:[Permission manager](https://github.com/sighupio/permission-manager) :fire::fire::fire: - Permission Manager is an application developed by SIGHUP that enables a super-easy and user-friendly RBAC management for Kubernetes.
 - :green_heart:[rakkess](https://github.com/corneliusweig/rakkess) :fire::fire::fire: - kubectl plugin to show an access matrix for server resources
 - [Kube-Scan](https://github.com/octarinesec/kube-scan) :fire::fire: - Kube-Scan gives a risk score, from 0 (no risk) to 10 (high risk) for each workload.
