@@ -217,7 +217,7 @@ Items with :green_heart: indicate open source projects.
 - [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/) - A in-depth run-through of Kubernetes networking
 - [Amazon EKS Best Practices Guide for Security](https://aws.github.io/aws-eks-best-practices/) - This guide provides advice about protecting information, systems, and assets that are reliant on EKS while delivering business value through risk assessments and mitigation strategies.
 - [Amazon EKS Node Drainer](https://github.com/aws-samples/amazon-k8s-node-drainer) - A guide and an example to cordon and evict all evictable pods from an EC2 node being terminated.
-- [Comparison of Kubernetes Ingress controllers](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/htmlview?pru=AAABdXUHlbs*g6XkyoZXhanlhRazst77Xw)
+- [Comparison of Kubernetes Ingress controllers](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/htmlview?pru=AAABdXUHlbs*g6XkyoZXhanlhRazst77Xw) - This research compares the capabilities of 14 different Kubernetes Ingress controllers.  
 - [Configuring HA Kubernetes cluster on bare metal servers with kubeadm](https://medium.com/faun/configuring-ha-kubernetes-cluster-on-bare-metal-servers-with-kubeadm-1-2-1e79f0f7857b) - A guide to standing up a HA Kubernetes cluster on bare metal servers with kubeadm.
 - [Introduction to Using Google Kubernetes Engine; Explain Like I’m Five!](https://medium.com/faun/google-kubernetes-engine-explain-like-im-five-1890e550c099) - Creating your first managed Kubernetes cluster on Google Kubernetes Engine using Terraform.
 - [Kubernetes Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - This repository contains various use cases of Kubernetes Network Policies and sample YAML files to leverage in your setup.
@@ -229,14 +229,14 @@ Items with :green_heart: indicate open source projects.
 - [Writing Your First Kubernetes Operator](https://medium.com/faun/writing-your-first-kubernetes-operator-8f3df4453234) - In this article, we’ll see how to build and deploy your first Kubernetes Operator using the Operator SDK.
 
 ### Blogs and Videos
-- [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
-- [How the Department of Defense Moved to Kubernetes and Istio](https://www.youtube.com/watch?v=YjZ4AZ7hRM0)
-- [Kubernetes at Reddit: Tales from Production](https://youtu.be/WTbIBqNcjoQ)
-- [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
-- [Life of a Packet](https://www.youtube.com/watch?v=0Omvgd7Hg1I)
-- [OPA Deep Dive](https://www.youtube.com/watch?v=Uj2N9S58GLU)
-- [Scaling Kubernetes to 2,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-2500-nodes/)
-- [Service Mesh Comparison](https://servicemesh.es/)
+- [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/) - Common pitfalls and how to avoid them.  
+- [How the Department of Defense Moved to Kubernetes and Istio](https://www.youtube.com/watch?v=YjZ4AZ7hRM0) - Focus on the sidecar security stack leveraging Envoy and sidecar containers to ensure zero trust security and baked-in multi-layer security.  
+- [Kubernetes at Reddit: Tales from Production](https://youtu.be/WTbIBqNcjoQ) - Hear of successes, share in the heartbreak of production explosions, and gain insight into what has and hasn't worked well for one of the world's busiest web properties.  
+- [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories) - A compiled list of links to public failure stories related to Kubernetes.  
+- [Life of a Packet](https://www.youtube.com/watch?v=0Omvgd7Hg1I) - Tracing the path of network traffic in the Kubernetes system.  
+- [OPA Deep Dive](https://www.youtube.com/watch?v=Uj2N9S58GLU) - Deep dive on some exciting new features in the OPA project presented by the co-creators.  
+- [Scaling Kubernetes to 2,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-2500-nodes/) - Issues you will encounter when running high-scale Kubernetes workloads.  
+- [Service Mesh Comparison](https://servicemesh.es/) - An easy compensation to help choose one of the service Mesh implementations.  
 
 ### Learnings and Documentations
 - [A Beginner’s Guide to Kubernetes](https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6) - A comprehensive introduction to Kubernetes architecture
@@ -246,23 +246,23 @@ Items with :green_heart: indicate open source projects.
 - [Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) - This tutorial shows you how to deploy a WordPress site and a MySQL database using Minikube.
 - [Exposing an External IP Address to Access an Application in a Cluster](https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/) - This guide shows how to create a Kubernetes Service object that exposes an external IP address.
 - [Katacoda](https://www.katacoda.com/courses/kubernetes/playground) - This is a Kubernetes playground, a safe place designed for experimenting, exploring and learning Kubernetes.
-- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - An official list of commonly used kubectl commands and flags.  
 - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - A cheatsheet containing many helpful kubectl commands
-- [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
+- [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/) - A high-level overview of the basic types of resources provided by the Kubernetes API and their primary functions.  
 - [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) - This tutorial provides a walkthrough of the basics of the Kubernetes cluster orchestration system.
 - [Play with Kubernetes](https://labs.play-with-k8s.com/) - Play with Kubernetes is a playground which allows users to run K8s clusters in a matter of seconds.
-- [Ready-to-use commands and tips for kubectl](https://medium.com/flant-com/kubectl-commands-and-tips-7b33de0c5476)
+- [Ready-to-use commands and tips for kubectl](https://medium.com/flant-com/kubectl-commands-and-tips-7b33de0c5476) - Various kubectl tips and tricks by Flant’s engineers.  
 - [Running ZooKeeper, A Distributed System Coordinator](https://kubernetes.io/docs/tutorials/stateful-application/zookeeper/) - This tutorial demonstrates running Apache Zookeeper on Kubernetes using StatefulSets, PodDisruptionBudgets, and PodAntiAffinity.
 - [Set Up a CI/CD Pipeline with Kubernetes](https://www.linux.com/audience/enterprise/set-cicd-pipeline-kubernetes-part-1-overview/) - A end-to-end guide to set up a CI/CD Pipeline with Kubernetes.
 - [StatefulSet Basics](https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/) - This tutorial provides an introduction to managing applications with StatefulSets.
-- [Webinar: K8s with OPA Gatekeeper](https://www.youtube.com/watch?v=v4wJE3I8BYM)
+- [Webinar: K8s with OPA Gatekeeper](https://www.youtube.com/watch?v=v4wJE3I8BYM) - How to use OPA to control what end-users can do on the cluster and ways to ensure that clusters are in compliance with company policies.  
 
 ### Certification Guides
 - [Certified Kubernetes Security Specialist - CKSS](https://github.com/ijelliti/CKSS-Certified-Kubernetes-Security-Specialist) - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam.
 - [CKS "Certified Kubernetes security specialist certification](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Kubernetes security resources primarly from material allowed during the exam, and extra optional items to help you advance your container and kubernetes security journey.
 - [How to pass the Certified Kubernetes Administrator (CKA) exam on the first attempt](https://medium.com/faun/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e) - A guide to pass CKA exam
 - [The ultimate CKA "Certfified Kuberenetes Administator" resource since exam inception](https://github.com/walidshaari/Kubernetes-Certified-Administrator)  - An updated repo of offical resources to help you master the CKA exam as well some extra resources to consolidate your kubernetes administration knowledge.
-- [Kubernetes Exam Simulator](https://killer.sh/)
+- [Kubernetes Exam Simulator](https://killer.sh/) - CKS/CKA/CKAD exams scenarios and environment.  
 
 ## Contribute
 
