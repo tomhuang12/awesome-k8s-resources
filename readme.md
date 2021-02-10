@@ -56,6 +56,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[kubectx + kubens](https://github.com/ahmetb/kubectx) :fire::fire::fire::fire::fire: - `kubectx` helps you switch between clusters back and forth, and `kubens` helps you switch between Kubernetes namespaces smoothly.
 - :green_heart:[kubediff](https://github.com/weaveworks/kubediff) :fire::fire::fire: - Kubediff is a tool for Kubernetes to show you the differences between your running configuration and your version controlled configuration.
 - :green_heart:[kubeprompt](https://github.com/jlesquembre/kubeprompt) - Isolates KUBECONFIG in each shell and shows the current Kubernetes context/namespace in your prompt
+- :green_heart:[Kubevela](https://github.com/oam-dev/kubevela) :fire::fire::fire::fire: - KubeVela is an easy-to-use yet extensible platform that enables them to design and ship applications with minimal effort.
 - :green_heart:[nova](https://github.com/FairwindsOps/nova/) - Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories.
 - :green_heart:[stern](https://github.com/wercker/stern) :fire::fire::fire::fire::fire: - Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod.
 
