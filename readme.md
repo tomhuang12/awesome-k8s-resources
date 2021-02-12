@@ -230,6 +230,7 @@ Items with :green_heart: indicate open source projects.
 - [Production grade Kubernetes Monitoring using Prometheus](https://medium.com/faun/production-grade-kubernetes-monitoring-using-prometheus-78144b835b60) - A in-depth guide to deploy Prometheus monitoring solution.
 - [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/) - Graphical explanations of Kubernetes
 - [Troubleshooting Kubernetes deployments](https://learnk8s.io/a/troubleshooting-kubernetes.pdf) - A flow chart to troubleshoot a kubernetes deployment in case of issues
+ - [Vertical Pod Autoscaling: The Definitive Guide](https://povilasv.me/vertical-pod-autoscaling-the-definitive-guide/) - An in-depth explanation on Kubernetes VPA: what it is, how it works, how to use it and which limitations it has. 
 - [Writing Your First Kubernetes Operator](https://medium.com/faun/writing-your-first-kubernetes-operator-8f3df4453234) - In this article, we’ll see how to build and deploy your first Kubernetes Operator using the Operator SDK.
 
 ### Blogs and Videos
@@ -244,6 +245,7 @@ Items with :green_heart: indicate open source projects.
 
 ### Learnings and Documentations
 - [A Beginner’s Guide to Kubernetes](https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6) - A comprehensive introduction to Kubernetes architecture
+- [ConfigMaps in Kubernetes: how they work and what you should remember](https://blog.flant.com/configmaps-in-kubernetes-how-they-work-and-what-you-should-remember/) - Understanding the evolution to ConfigMaps, how they work and what happens when they change. 
 - [Configuring Redis using a ConfigMap](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/) - A walkthrough that provides a real world example of how to configure Redis using a ConfigMap
 - [Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) - This tutorial shows you how to run Apache Cassandra on Kubernetes. Cassandra, a database, needs persistent storage to provide data durability.
 - [Example: Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) - This tutorial shows you how to build and deploy a simple, multi-tier web application using Kubernetes and Docker.
