@@ -241,7 +241,7 @@ Items with :green_heart: indicate open source projects.
 - [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories) - A compiled list of links to public failure stories related to Kubernetes.  
 - [Life of a Packet](https://www.youtube.com/watch?v=0Omvgd7Hg1I) - Tracing the path of network traffic in the Kubernetes system.  
 - [OPA Deep Dive](https://www.youtube.com/watch?v=Uj2N9S58GLU) - Deep dive on some exciting new features in the OPA project presented by the co-creators.  
-- [Scaling Kubernetes to 2,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-2500-nodes/) - Issues you will encounter when running high-scale Kubernetes workloads.  
+- [Scaling Kubernetes to 2,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-2500-nodes/) + [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/) - Issues you will encounter when running high-scale Kubernetes workloads.
 - [Service Mesh Comparison](https://servicemesh.es/) - An easy compensation to help choose one of the service Mesh implementations.  
 
 ### Learnings and Documentations
