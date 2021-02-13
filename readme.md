@@ -144,6 +144,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Cortex](https://github.com/cortexproject/cortex) :fire::fire::fire::fire::fire: - Cortex provides horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
 - :green_heart:[Goldilocks](https://github.com/FairwindsOps/goldilocks) :fire::fire: - This tool creates a vertical pod autoscaler for each deployment in a namespace and then queries them for information.
 - :green_heart:[Grafana](https://github.com/grafana/grafana) :fire::fire::fire::fire::fire: - Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored.
+- :green_heart:[k8s-image-availability-exporter](https://github.com/flant/k8s-image-availability-exporter) :fire: - Prometheus exporter that warns you proactively about images that are defined in Kubernetes objects but are not available in the container registry. 
 - :green_heart:[Kiali](https://github.com/kiali/kiali) :fire::fire::fire::fire::fire: - Kiali works with Istio to visualise the service mesh topology.
 - :green_heart:[kube-capacity](https://github.com/robscott/kube-capacity) :fire::fire::fire: - This is a simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 - :green_heart:[kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) :fire::fire::fire::fire::fire: - kube-state-metrics is a simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
