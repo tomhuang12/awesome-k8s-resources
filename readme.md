@@ -215,6 +215,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kubeless](https://github.com/kubeless/kubeless) :fire::fire::fire::fire::fire: - `kubeless` is a Kubernetes-native serverless framework that lets you deploy small bits of code without having to worry about the underlying infrastructure plumbing.
 - :green_heart:[KubePug](https://github.com/rikatz/kubepug) :fire: - A tool to check deprecations before upgrading Kubernetes version
 - :green_heart:[Shell-operator](https://github.com/flant/shell-operator) :fire::fire::fire::fire: - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
+- :green_heart:[KubeHelper](https://github.com/KubeHelper/kubehelper) :fire: - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface..
 
 ## Guides, Documentations, Blogs, and Learnings
 
