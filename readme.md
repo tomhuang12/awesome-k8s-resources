@@ -115,7 +115,7 @@ Items with :green_heart: indicate open source projects.
 - [Amazon FSx for Lustre CSI Driver](https://github.com/kubernetes-sigs/aws-fsx-csi-driver) - The Amazon FSx for Lustre Container Storage Interface (CSI) Driver implements CSI specification for container orchestrators (CO) to manage lifecycle of Amazon FSx for Lustre filesystems.
 
 ### Testing and Troubleshooting
-- :green_heart:[Cooper](https://github.com/cloud66-oss/copper) :fire::fire: - A configuration file validator for Kubernetes. This is specifically useful with Kubernetes configuration files to enforce best practices, apply policies and compliance requirements.
+- :green_heart:[Copper](https://github.com/cloud66-oss/copper) :fire::fire: - A configuration file validator for Kubernetes. This is specifically useful with Kubernetes configuration files to enforce best practices, apply policies and compliance requirements.
 - :green_heart:[kube-monkey](https://github.com/asobti/kube-monkey) :fire::fire::fire::fire: - It randomly deletes Kubernetes (k8s) pods in the cluster encouraging and validating the development of failure-resilient services.
 - :green_heart:[Kubetest](https://github.com/vapor-ware/kubetest) :fire: - Kubetest is a pytest plugin that makes it easier to manage a Kubernetes cluster within your integration tests.
 - :green_heart:[Litmus](https://github.com/litmuschaos/litmus) :fire::fire::fire: - Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments.
@@ -191,6 +191,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Strimzi](https://github.com/strimzi/strimzi-kafka-operator) :fire::fire::fire::fire: - Strimzi provides a way to run an Apache Kafka cluster on Kubernetes or OpenShift in various deployment configurations.
 
 ### Miscellaneous
+:green_heart:[Alterant](https://github.com/cloud66-oss/alterant) :fire: - A tool that transforms configuration files based on custom scripts. It reads configuration files in yaml or json and modifies them based on your scripts..
 - :green_heart:[Crossplane](https://github.com/crossplane/crossplane) :fire::fire::fire::fire::fire: - Crossplane is an open source Kubernetes add-on that extends any cluster with the ability to provision and manage cloud infrastructure, services, and applications.
 - :green_heart:[Brigade](https://github.com/brigadecore/brigade/) :fire::fire::fire::fire::fire: - Brigade is the tool for creating pipelines for Kubernetes.
 - :green_heart:[KubeEdge](https://github.com/kubeedge/kubeedge) :fire::fire::fire::fire::fire: - KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
