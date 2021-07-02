@@ -217,11 +217,13 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Crossplane](https://github.com/crossplane/crossplane) :fire::fire::fire::fire::fire: - Crossplane is an open source Kubernetes add-on that extends any cluster with the ability to provision and manage cloud infrastructure, services, and applications.
 - :green_heart:[Descheduler for Kubernetes](https://github.com/kubernetes-sigs/descheduler) :fire::fire::fire::fire: - Descheduling pods from nodes based on policies
 - :green_heart:[Devtron](https://github.com/devtron-labs/devtron) :fire::fire::fire::fire: - It is designed as a self-serve platform for operationalizing and maintaining applications (AppOps) on kubernetes in a developer friendly way.
+- :green_heart:[K8sPurger](https://github.com/yogeshkk/K8sPurger) :fire: - `K8sPurger` Hunt Unused Resources In Kubernetes.
 - :green_heart:[Kubecost](https://github.com/kubecost/cost-model) :fire::fire::fire: - Kubecost models give teams visibility into current and historical Kubernetes spend and resource allocation.
 - :green_heart:[KubeEdge](https://github.com/kubeedge/kubeedge) :fire::fire::fire::fire::fire: - KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
 - :green_heart:[Kubeless](https://github.com/kubeless/kubeless) :fire::fire::fire::fire::fire: - `kubeless` is a Kubernetes-native serverless framework that lets you deploy small bits of code without having to worry about the underlying infrastructure plumbing.
 - :green_heart:[KubePug](https://github.com/rikatz/kubepug) :fire: - A tool to check deprecations before upgrading Kubernetes version
 - :green_heart:[Shell-operator](https://github.com/flant/shell-operator) :fire::fire::fire::fire: - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
+
 
 ## Guides, Documentations, Blogs, and Learnings
 
