@@ -224,7 +224,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Shell-operator](https://github.com/flant/shell-operator) :fire::fire::fire::fire: - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
 
 
-
 ## Guides, Documentations, Blogs, and Learnings
 
 ### Guides
