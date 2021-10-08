@@ -69,7 +69,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[kops](https://github.com/kubernetes/kops) :fire::fire::fire::fire::fire: - `kops` helps you create,like kind,upgrade and maintain production-grade
 - :green_heart:[kube-aws](https://github.com/kubernetes-incubator/kube-aws) :fire::fire::fire::fire: - `kube-aws` is a command-line tool to create/update/destroy Kubernetes clusters on AWS.
 - :green_heart:[kubespray](https://github.com/kubernetes-sigs/kubespray) :fire::fire::fire::fire::fire: - Deploy a production ready Kubernetes cluster
-- :green_heart:[micro8s](https://github.com/ubuntu/microk8s) :fire::fire::fire::fire::fire: - The smallest, fastest Kubernetes
+- :green_heart:[microK8s](https://github.com/ubuntu/microk8s) :fire::fire::fire::fire::fire: - The smallest, fastest Kubernetes
 - :green_heart:[Minikube](https://github.com/kubernetes/minikube) :fire::fire::fire::fire::fire: - minikube implements a local Kubernetes cluster on macOS,Linux,all in a binary less than 100 MB.
 - [Kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) - kubeadm performs the actions necessary to get a minimum viable cluster up and running.
 
