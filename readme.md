@@ -214,11 +214,11 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[yunikorn](https://github.com/apache/incubator-yunikorn-core) :fire::fire: - a light-weight, universal resource scheduler for container orchestrator systems.
 
 ### Data Management
-:green_heart:[Kubegres](https://github.com/reactive-tech/kubegres) :fire::fire::fire: - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql pods with data replication and failover enabled out-of-the box.
-:green_heart:[Postgres Operator](https://github.com/CrunchyData/postgres-operator) :fire::fire::fire::fire::fire: - PGO, the Postgres Operator from Crunchy Data, gives you a declarative Postgres solution that automatically manages your PostgreSQL clusters.
-:green_heart:[MongoDB Community Kubernetes Operator](https://github.com/mongodb/mongodb-kubernetes-operator) :fire::fire: - This is a Kubernetes Operator which deploys MongoDB Community into Kubernetes clusters.
-:green_heart:[MySQL Operator for Kubernetes](https://github.com/mysql/mysql-operator) :fire: - The MYSQL Operator for Kubernetes is an Operator for Kubernetes managing MySQL InnoDB Cluster setups inside a Kubernetes Cluster.
-:green_heart:[Redis Operator](https://github.com/spotahome/redis-operator) :fire::fire::fire: - Redis Operator creates/configures/manages redis-failovers atop Kubernetes.
+- :green_heart:[Kubegres](https://github.com/reactive-tech/kubegres) :fire::fire::fire: - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql pods with data replication and failover enabled out-of-the box.
+- :green_heart:[Postgres Operator](https://github.com/CrunchyData/postgres-operator) :fire::fire::fire::fire::fire: - PGO, the Postgres Operator from Crunchy Data, gives you a declarative Postgres solution that automatically manages your PostgreSQL clusters.
+- :green_heart:[MongoDB Community Kubernetes Operator](https://github.com/mongodb/mongodb-kubernetes-operator) :fire::fire: - This is a Kubernetes Operator which deploys MongoDB Community into Kubernetes clusters.
+- :green_heart:[MySQL Operator for Kubernetes](https://github.com/mysql/mysql-operator) :fire: - The MYSQL Operator for Kubernetes is an Operator for Kubernetes managing MySQL InnoDB Cluster setups inside a Kubernetes Cluster.
+- :green_heart:[Redis Operator](https://github.com/spotahome/redis-operator) :fire::fire::fire: - Redis Operator creates/configures/manages redis-failovers atop Kubernetes.
 
 ### Miscellaneous
 - :green_heart:[Agones](https://github.com/googleforgames/agones) :fire::fire::fire::fire::fire: - Agones is a library for hosting, running and scaling dedicated game servers on Kubernetes.
