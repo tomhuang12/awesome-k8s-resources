@@ -170,6 +170,7 @@ Items with :green_heart: indicate open source projects.
 
 ### Security and Compliance
 - :green_heart:[Datree](https://github.com/datreeio/datree) :fire::fire::fire::fire::fire: - Datree is a CLI tool that supports Kubernetes admins in their roles by preventing developers from making errors in Kubernetes configurations that can cause clusters to fail in production.
+- :green_heart:[Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) :fire::fire::fire: - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - :green_heart:[Falco](https://github.com/falcosecurity/falco) :fire::fire::fire::fire::fire: - Falco is a behavioral activity monitor designed to detect anomalous activity in your applications. You can use Falco to monitor run-time security of your Kubernetes applications and internal components.
 - :green_heart:[Gatekeeper](https://github.com/open-policy-agent/gatekeeper) :fire::fire::fire::fire::fire: - Policy controller for Kubernetes
 - :green_heart:[k-rail](https://github.com/cruise-automation/k-rail) :fire::fire: - k-rail is a workload policy enforcement tool for Kubernetes. It can help you secure a multi tenant cluster with minimal disruption and maximum velocity.
@@ -182,6 +183,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kyverno](https://github.com/kyverno/kyverno) :fire::fire::fire::fire: - Kyverno is a policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans.
 - :green_heart:[Permission manager](https://github.com/sighupio/permission-manager) :fire::fire::fire: - Permission Manager is an application developed by SIGHUP that enables a super-easy and user-friendly RBAC management for Kubernetes.
 - :green_heart:[rakkess](https://github.com/corneliusweig/rakkess) :fire::fire::fire: - kubectl plugin to show an access matrix for server resources
+- [Deepfence ThreatStryker](https://deepfence.io) - Full life cycle Cloud Native Security Observability Platform for kubernetes, virtual machines and serverless.
 - [Kube-Scan](https://github.com/octarinesec/kube-scan) :fire::fire::fire: - Kube-Scan gives a risk score, from 0 (no risk) to 10 (high risk) for each workload.
 - [Teleport](https://github.com/gravitational/teleport) :fire::fire::fire::fire::fire: - Teleport Unified Access Plane enables engineers to quickly access any computing resource anywhere.
 
