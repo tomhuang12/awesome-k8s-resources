@@ -63,7 +63,7 @@ Items with :green_heart: indicate open source projects.
 ### Cluster Provisioning
 - :green_heart:[Bootkube](https://github.com/kubernetes-sigs/bootkube) :fire::fire::fire::fire: - Bootkube is a tool for launching self-hosted Kubernetes clusters.
 - :green_heart:[eksctl](https://github.com/weaveworks/eksctl) :fire::fire::fire::fire::fire: - `eksctl` is a simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2.
-- :green_heart:[k0s](https://github.com/rancher/k0s) :fire::fire::fire::fire::fire: - k0s - Zero Friction Kubernetes (The Simple, Solid & Certified Kubernetes Distribution)
+- :green_heart:[k0s](https://github.com/k0sproject/k0s) :fire::fire::fire::fire::fire: - k0s - Zero Friction Kubernetes (The Simple, Solid & Certified Kubernetes Distribution)
 - :green_heart:[k3d](https://github.com/rancher/k3d) :fire::fire::fire::fire::fire: - k3d,and Windows.,destroy,half the memory,highly available,is a tool for running local k3s clusters in docker. It's a single binary about 20 MB. You need to have docker installed.
 - :green_heart:[k3s](https://github.com/rancher/k3s) :fire::fire::fire::fire::fire: - Lightweight Kubernetes. Easy to install,Kubernetes clusters from the command line.
 - :green_heart:[kind](https://github.com/kubernetes-sigs/kind) :fire::fire::fire::fire::fire: - kind is a tool for running local Kubernetes clusters using Docker container "nodes".
