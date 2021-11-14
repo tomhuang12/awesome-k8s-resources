@@ -92,6 +92,7 @@ Items with :green_heart: indicate open source projects.
 
 ### Cluster Resources Management
 - :green_heart:[Grafana Tanka](https://github.com/grafana/tanka) :fire::fire::fire::fire: - The clean, concise and super flexible alternative to YAML for your Kubernetes cluster.
+- :green_heart:[Keda](https://github.com/kedacore/keda) :fire::fire::fire::fire::fire: - Event-driven Autoscaling in Kubernetes
 - :green_heart:[Kruise](https://github.com/openkruise/kruise) :fire::fire::fire::fire::fire: - Kruise consists of several controllers which extend and complement the Kubernetes core controllers for workload management.
 - :green_heart:[KubeDirector](https://github.com/bluek8s/kubedirector) :fire::fire: - KubeDirector uses standard Kubernetes (K8s) facilities of custom resources and API extensions to implement stateful scaleout application clusters.
 - :green_heart:[Kubenav](https://github.com/kubenav/kubenav) :fire::fire::fire::fire: - kubenav is the navigator for your Kubernetes clusters right in your pocket.
