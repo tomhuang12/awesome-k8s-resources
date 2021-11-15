@@ -31,6 +31,7 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
   - [Service Mesh](#service-mesh)
   - [Development Tools](#development-tools)
   - [Data Processing and Machine Learning](#data-processing-and-machine-learning)
+  - [Data Management](#data-management)
   - [Miscellaneous](#miscellaneous)
 - [Guides, Documentations, Blogs, and Learnings](#guides-documentations-blogs-and-learnings)
   - [Guides](#guides)
