@@ -16,30 +16,33 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
 
 
 ## Contents
-- [Tools and Libraries](#tools-and-libraries)
-  - [Command Line Tools](#command-line-tools)
-  - [Cluster Provisioning](#cluster-provisioning)
-  - [Automation and CI/CD](#automation-and-cicd)
-  - [Cluster Resources Management](#cluster-resources-management)
-  - [Secrets Management](#secrets-management)
-  - [Networking](#networking)
-  - [Storage](#storage)
-  - [Testing and Troubleshooting](#testing-and-troubleshooting)
-  - [Monitoring, Alerts, and Visualization](#monitoring-alerts-and-visualization)
-  - [Backup and Restore](#backup-and-restore)
-  - [Security and Compliance](#security-and-compliance)
-  - [Service Mesh](#service-mesh)
-  - [Development Tools](#development-tools)
-  - [Data Processing and Machine Learning](#data-processing-and-machine-learning)
-  - [Data Management](#data-management)
-  - [Miscellaneous](#miscellaneous)
-- [Guides, Documentations, Blogs, and Learnings](#guides-documentations-blogs-and-learnings)
-  - [Guides](#guides)
-  - [Blogs and Videos](#blogs-and-videos)
-  - [Learnings and Documentations](#learnings-and-documentations)
-  - [Certification Guides](#certification-guides)
-- [Contribute](#contribute)
-- [License](#license)
+- [Awesome Kubernetes Resources ![Awesome](https://awesome.re)](#awesome-kubernetes-resources-)
+  - [The Fiery Meter of Awesomeness](#the-fiery-meter-of-awesomeness)
+  - [Contents](#contents)
+  - [Tools and Libraries](#tools-and-libraries)
+    - [Command Line Tools](#command-line-tools)
+    - [Cluster Provisioning](#cluster-provisioning)
+    - [Automation and CI/CD](#automation-and-cicd)
+    - [Cluster Resources Management](#cluster-resources-management)
+    - [Secrets Management](#secrets-management)
+    - [Networking](#networking)
+    - [Storage](#storage)
+    - [Testing and Troubleshooting](#testing-and-troubleshooting)
+    - [Monitoring, Alerts, and Visualization](#monitoring-alerts-and-visualization)
+    - [Backup and Restore](#backup-and-restore)
+    - [Security and Compliance](#security-and-compliance)
+    - [Service Mesh](#service-mesh)
+    - [Development Tools](#development-tools)
+    - [Data Processing and Machine Learning](#data-processing-and-machine-learning)
+    - [Data Management](#data-management)
+    - [Miscellaneous](#miscellaneous)
+  - [Guides, Documentations, Blogs, and Learnings](#guides-documentations-blogs-and-learnings)
+    - [Guides](#guides)
+    - [Blogs and Videos](#blogs-and-videos)
+    - [Learnings and Documentations](#learnings-and-documentations)
+    - [Certification Guides](#certification-guides)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 
 ## Tools and Libraries
@@ -165,6 +168,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Thanos](https://github.com/thanos-io/thanos) :fire::fire::fire::fire::fire: - Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity.
 - :green_heart:[Kubedev](https://github.com/relferreira/kubedev) :fire: - Kubedev is a powerful and beautiful user interface for managing Kubernetes clusters.
 - :green_heart:[KubeHelper](https://github.com/KubeHelper/kubehelper) :fire: - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
+- :green_heart:[VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) :fire::fire::fire::fire::fire: - VictoriaMetrics is a fast, cost-effective and scalable monitoring solution and time series database.
 
 ### Backup and Restore
 - :green_heart:[katafygio](https://github.com/bpineau/katafygio) :fire: - katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository.
