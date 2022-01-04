@@ -144,6 +144,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[PowerfulSeal](https://github.com/bloomberg/powerfulseal) :fire::fire::fire::fire: - PowerfulSeal injects failure into your Kubernetes clusters, so that you can detect problems as early as possible.
 
 ### Monitoring, Alerts, and Visualization
+- :green_heart:[Mizu](https://github.com/up9inc/mizu) :fire::fire::fire: - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 - :green_heart:[BotKube](https://github.com/infracloudio/botkube) :fire::fire::fire::fire: - BotKube integration with Slack or Mattermost helps you monitor your Kubernetes cluster, debug critical deployments and gives recommendations for standard practices by running checks on the Kubernetes resources.
 - :green_heart:[Cortex](https://github.com/cortexproject/cortex) :fire::fire::fire::fire::fire: - Cortex provides horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
 - :green_heart:[Goldilocks](https://github.com/FairwindsOps/goldilocks) :fire::fire::fire: - This tool creates a vertical pod autoscaler for each deployment in a namespace and then queries them for information.
