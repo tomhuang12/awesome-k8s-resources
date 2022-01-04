@@ -92,6 +92,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[werf](https://github.com/werf/werf) :fire::fire::fire::fire::fire: - werf is a CLI tool glueing Git, Docker, Helm & Kubernetes with any CI system to implement CI/CD and GitOps. 
 
 ### Cluster Resources Management
+- :green_heart:[Clusterpedia](https://github.com/clusterpedia-io/clusterpedia) :fire: - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
 - :green_heart:[Grafana Tanka](https://github.com/grafana/tanka) :fire::fire::fire::fire: - The clean, concise and super flexible alternative to YAML for your Kubernetes cluster.
 - :green_heart:[Keda](https://github.com/kedacore/keda) :fire::fire::fire::fire::fire: - Event-driven Autoscaling in Kubernetes
 - :green_heart:[Kruise](https://github.com/openkruise/kruise) :fire::fire::fire::fire::fire: - Kruise consists of several controllers which extend and complement the Kubernetes core controllers for workload management.
