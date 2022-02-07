@@ -90,6 +90,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Reloader](https://github.com/stakater/Reloader) :fire::fire::fire::fire::fire: - Reloader can watch changes in `ConfigMap` and `Secret` and do rolling upgrades on Pods with their associated `DeploymentConfigs`, `Deployments`, `Daemonsets` and `Statefulsets`.
 - :green_heart:[Skaffold](https://github.com/GoogleContainerTools/skaffold) :fire::fire::fire::fire::fire: - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
 - :green_heart:[Spinnaker](https://github.com/spinnaker/spinnaker) :fire::fire::fire::fire::fire: - Spinnaker is an open-source continuous delivery platform for releasing software changes with high velocity and confidence.
+- :green_heart:[TF-controller](https://github.com/weaveworks/tf-controller) :fire: - TF-controller is an experimental controller for Flux to reconcile Terraform resources in the GitOps way.
 - :green_heart:[werf](https://github.com/werf/werf) :fire::fire::fire::fire::fire: - werf is a CLI tool glueing Git, Docker, Helm & Kubernetes with any CI system to implement CI/CD and GitOps. 
 
 ### Cluster Resources Management
