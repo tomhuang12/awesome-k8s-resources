@@ -47,7 +47,9 @@ Items with :green_heart: indicate open source projects.
 
 ### Command Line Tools
 - :green_heart:[Helm](https://github.com/helm/helm) :fire::fire::fire::fire::fire: - Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources.
+- :green_heart:[Infra](https://github.com/infrahq/infra) :fire::fire::fire: - Infra enables you to discover and access infrastructure (e.g. Kubernetes, databases). We help you connect an identity provider such as Okta or Azure active directory, and map users/groups with the permissions you set to your infrastructure.
 - :green_heart:[K9s](https://github.com/derailed/k9s) :fire::fire::fire::fire::fire: - K9s provides a terminal UI to interact with your Kubernetes clusters.
+- :green_heart:[kconnect](https://github.com/fidelity/kconnect) :fire::fire: - kconnect is a CLI utility that can be used to discover and securely access Kubernetes clusters across multiple operating environments.
 - :green_heart:[Ktunnel](https://github.com/omrikiei/ktunnel) :fire::fire: - Ktunnel is a CLI tool that establishes a reverse tunnel between a kubernetes cluster and your local machine.
 - :green_heart:[Kubebox](https://github.com/astefanutti/kubebox) :fire::fire::fire::fire: - Terminal and Web console for Kubernetes
 - :green_heart:[Kubetail](https://github.com/johanhaleby/kubetail) :fire::fire::fire::fire::fire: - Bash script that enables you to aggregate (tail/follow) logs from multiple pods into one stream.
