@@ -66,6 +66,7 @@ Items with :green_heart: indicate open source projects.
 
 ### Cluster Provisioning
 - :green_heart:[Bootkube](https://github.com/kubernetes-sigs/bootkube) :fire::fire::fire::fire: - Bootkube is a tool for launching self-hosted Kubernetes clusters.
+- :green_heart:[Cluster API](https://github.com/kubernetes-sigs/cluster-api) :fire::fire::fire::fire::fire: - Cluster API is a Kubernetes sub-project focused on providing declarative APIs and tooling to simplify provisioning, upgrading, and operating multiple Kubernetes clusters.
 - :green_heart:[eksctl](https://github.com/weaveworks/eksctl) :fire::fire::fire::fire::fire: - `eksctl` is a simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2.
 - :green_heart:[k0s](https://github.com/k0sproject/k0s) :fire::fire::fire::fire::fire: - k0s - Zero Friction Kubernetes (The Simple, Solid & Certified Kubernetes Distribution)
 - :green_heart:[k3d](https://github.com/rancher/k3d) :fire::fire::fire::fire::fire: - k3d,and Windows.,destroy,half the memory,highly available,is a tool for running local k3s clusters in docker. It's a single binary about 20 MB. You need to have docker installed.
@@ -94,6 +95,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Spinnaker](https://github.com/spinnaker/spinnaker) :fire::fire::fire::fire::fire: - Spinnaker is an open-source continuous delivery platform for releasing software changes with high velocity and confidence.
 - :green_heart:[TF-controller](https://github.com/weaveworks/tf-controller) :fire: - TF-controller is an experimental controller for Flux to reconcile Terraform resources in the GitOps way.
 - :green_heart:[werf](https://github.com/werf/werf) :fire::fire::fire::fire::fire: - werf is a CLI tool glueing Git, Docker, Helm & Kubernetes with any CI system to implement CI/CD and GitOps. 
+- :green_heart:[Weave GitOps](https://github.com/weaveworks/weave-gitops) :fire::fire: - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
 
 ### Cluster Resources Management
 - :green_heart:[Clusterpedia](https://github.com/clusterpedia-io/clusterpedia) :fire: - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
