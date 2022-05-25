@@ -110,6 +110,7 @@ Items with :green_heart: indicate open source projects.
 ### Secrets Management
 - :green_heart:[Kubernetes External Secrets](https://github.com/godaddy/kubernetes-external-secrets) :fire::fire::fire::fire::fire: - Kubernetes External Secrets allows you to use external secret management systems, like AWS Secrets Manager or HashiCorp Vault, to securely add secrets in Kubernetes.
 - :green_heart:[Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) :fire::fire::fire::fire::fire: - Encrypt your Secret into a SealedSecret, which is safe to store - even to a public repository.
+- :green_heart:[akv2k8s](https://github.com/SparebankenVest/azure-key-vault-to-kubernetes) :fire::fire: - Azure Key Vault to Kubernetes (akv2k8s) will make Azure Key Vault objects available to Kubernetes in two ways: as native Kubernetes Secrets; as environment variables directly injected into your Container application
 
 ### Networking
 - :green_heart:[Calico Networking](https://github.com/projectcalico/calico) :fire::fire::fire::fire::fire: - Calico is an open source networking and network security solution for containers, virtual machines, and bare-metal workloads
