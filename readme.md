@@ -278,6 +278,7 @@ Items with :green_heart: indicate open source projects.
 - [OPA Deep Dive](https://www.youtube.com/watch?v=Uj2N9S58GLU) - Deep dive on some exciting new features in the OPA project presented by the co-creators.  
 - [Scaling Kubernetes to 2,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-2500-nodes/) + [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/) - Issues you will encounter when running high-scale Kubernetes workloads.
 - [Service Mesh Comparison](https://servicemesh.es/) - An easy compensation to help choose one of the service Mesh implementations.  
+- [ArgoCD Best Practices](https://datree.io/resources/argocd-best-practices-you-should-know)
 
 ### Learnings and Documentations
 - [A Beginner’s Guide to Kubernetes](https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6) - A comprehensive introduction to Kubernetes architecture
