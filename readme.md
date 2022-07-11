@@ -65,7 +65,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Plural](https://github.com/pluralsh/plural) :fire::fire: - Plural is a CLI tool and holistic DevOps management platform for rapidly deploying, managing, and monitoring open-source applications on Kubernetes.
 - :green_heart:[stern](https://github.com/wercker/stern) :fire::fire::fire::fire::fire: - Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod.
 
-
 ### Cluster Provisioning
 - :green_heart:[Bootkube](https://github.com/kubernetes-sigs/bootkube) :fire::fire::fire::fire: - Bootkube is a tool for launching self-hosted Kubernetes clusters.
 - :green_heart:[Cluster API](https://github.com/kubernetes-sigs/cluster-api) :fire::fire::fire::fire::fire: - Cluster API is a Kubernetes sub-project focused on providing declarative APIs and tooling to simplify provisioning, upgrading, and operating multiple Kubernetes clusters.
