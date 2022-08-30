@@ -63,7 +63,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kubevela](https://github.com/oam-dev/kubevela) :fire::fire::fire::fire::fire: - KubeVela is an easy-to-use yet extensible platform that enables them to design and ship applications with minimal effort.
 - :green_heart:[nova](https://github.com/FairwindsOps/nova/) :fire::fire: - Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories.
 - :green_heart:[Plural](https://github.com/pluralsh/plural) :fire::fire: - Plural is a CLI tool and holistic DevOps management platform for rapidly deploying, managing, and monitoring open-source applications on Kubernetes.
-- :green_heart:[stern](https://github.com/wercker/stern) :fire::fire::fire::fire::fire: - Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod.
+- :green_heart:[stern](https://github.com/stern/stern) :fire::fire::fire::fire::fire: - Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod.
 
 ### Cluster Provisioning
 - :green_heart:[Bootkube](https://github.com/kubernetes-sigs/bootkube) :fire::fire::fire::fire: - Bootkube is a tool for launching self-hosted Kubernetes clusters.
