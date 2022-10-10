@@ -212,6 +212,7 @@ Items with :green_heart: indicate open source projects.
 
 ### Development Tools
 - :green_heart:[garden](https://github.com/garden-io/garden) :fire::fire::fire::fire::fire: - Garden provides production-like Kubernetes testing environments for integration tests, QA, and development.
+- :green_heart:[gefyra](https://github.com/gefyrahq/gefyra) :fire::fire::fire: -Gefyra blazingly-fast, rock-solid, local application development ➡️ with Kubernetes.
 - :green_heart:[ko](https://github.com/google/ko) :fire::fire::fire::fire::fire: - `ko` is a tool for building and deploying Golang applications to Kubernetes.
 - :green_heart:[Konfig](https://github.com/cloud66-oss/konfig) :fire: - Konfig is a Kubernetes friendly Rails gem. It can load configuration and secrets from both YAML or folders with individual files and present them to your application the same way.
 - :green_heart:[kubevious](https://github.com/kubevious/Kubevious) :fire::fire::fire::fire: - Kubevious renders all configurations relevant to the application in one place. That saves a lot of time from operators, eliminating the need for looking up settings and digging within selectors and labels.
