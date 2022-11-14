@@ -211,6 +211,7 @@ Items with :green_heart: indicate open source projects.
 - [NGINX Service Mesh](https://www.nginx.com/products/nginx-service-mesh) - NGINX Service Mesh (NSM) provides a turnkey, secure, service-to-service solution for container traffic management, with a unified data plane for ingress and egress management in a single configuration.
 
 ### Development Tools
+- :green_heart:[Eclipse JKube](https://github.com/eclipse/jkube) :fire::fire: - Tools and plugins for Java developers that help you create container images along with the required manifests to deploy your applications to Kubernetes.
 - :green_heart:[garden](https://github.com/garden-io/garden) :fire::fire::fire::fire::fire: - Garden provides production-like Kubernetes testing environments for integration tests, QA, and development.
 - :green_heart:[gefyra](https://github.com/gefyrahq/gefyra) :fire::fire::fire: -Gefyra blazingly-fast, rock-solid, local application development ➡️ with Kubernetes.
 - :green_heart:[ko](https://github.com/google/ko) :fire::fire::fire::fire::fire: - `ko` is a tool for building and deploying Golang applications to Kubernetes.
