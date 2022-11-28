@@ -110,7 +110,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kubenav](https://github.com/kubenav/kubenav) :fire::fire::fire::fire: - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - :green_heart:[Liqo](https://github.com/liqotech/liqo) :fire::fire: - Liqo implements Dynamic resource sharing across different Kubernetes clusters (e.g.; offloading pods and services), supporting decentralized governance.
 - :green_heart:[The Hierarchical Namespace Controller](https://github.com/kubernetes-sigs/multi-tenancy/tree/master/incubator/hnc) :fire::fire::fire: - Hierarchical namespaces make it easier to share your cluster by making namespaces more powerful.
-- [Aptakube](https://aptakube.com) - A modern, lightweight and multi-cluster desktop client for Kubernetes. Connect to multiple clusters simultaneously to view, edit and manage all your resources.
 
 ### Secrets Management
 - :green_heart:[Kubernetes External Secrets](https://github.com/godaddy/kubernetes-external-secrets) :fire::fire::fire::fire::fire: - Kubernetes External Secrets allows you to use external secret management systems, like AWS Secrets Manager or HashiCorp Vault, to securely add secrets in Kubernetes.
@@ -227,6 +226,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Telepresence](https://github.com/telepresenceio/telepresence) :fire::fire::fire::fire::fire: - Telepresence provides fast, realistic local development for Kubernetes microservices.
 - :green_heart:[Tilt](https://github.com/tilt-dev/tilt) :fire::fire::fire::fire::fire: - Tilt powers multi-service development and makes sure they behave.
 - :green_heart:[Tye](https://github.com/dotnet/tye) :fire::fire::fire::fire::fire: - Tye is a developer tool that makes developing, testing, and deploying microservices and distributed applications easier.
+- [Aptakube](https://aptakube.com) - A modern, lightweight and multi-cluster desktop client for Kubernetes. Connect to multiple clusters simultaneously to view, edit and manage all your resources.
 
 ### Data Processing and Machine Learning
 - :green_heart:[Kubeflow](https://github.com/kubeflow/kubeflow) :fire::fire::fire::fire::fire: - Kubeflow is a Cloud Native platform for machine learning based on Google’s internal machine learning pipelines.
