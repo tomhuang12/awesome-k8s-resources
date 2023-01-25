@@ -69,6 +69,7 @@ Items with :green_heart: indicate open source projects.
 
 ### Cluster Provisioning
 - :green_heart:[Bootkube](https://github.com/kubernetes-sigs/bootkube) :fire::fire::fire::fire: - Bootkube is a tool for launching self-hosted Kubernetes clusters.
+- :green_heart:[Claudie](https://github.com/berops/claudie) :fire: - Multi-cloud clusters with each nodepool in a different cloud provider.
 - :green_heart:[Cluster API](https://github.com/kubernetes-sigs/cluster-api) :fire::fire::fire::fire::fire: - Cluster API is a Kubernetes sub-project focused on providing declarative APIs and tooling to simplify provisioning, upgrading, and operating multiple Kubernetes clusters.
 - :green_heart:[eksctl](https://github.com/weaveworks/eksctl) :fire::fire::fire::fire::fire: - `eksctl` is a simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2.
 - :green_heart:[k0s](https://github.com/k0sproject/k0s) :fire::fire::fire::fire::fire: - k0s - Zero Friction Kubernetes (The Simple, Solid & Certified Kubernetes Distribution)
