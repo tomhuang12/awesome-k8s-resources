@@ -222,7 +222,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[kubectl-warp](https://github.com/ernoaapa/kubectl-warp) :fire::fire: - Kubernetes CLI plugin for syncing and executing local files in Pod on Kubernetes
 - :green_heart:[kubernix](https://github.com/saschagrunert/kubernix) :fire::fire::fire: - This project aims to provide single dependency Kubernetes clusters for local testing, experimenting and development purposes.
 - :green_heart:[Makisu](https://github.com/uber/makisu) :fire::fire::fire::fire::fire: - Makisu is a fast and flexible Docker image build tool designed for unprivileged containerized environments such as Mesos or Kubernetes.
-- :green_heart:[Monokle](https://github.com/kubeshop/monokle) :fire: - Monokle helps you create, edit and validate yaml manifests, visualize and validate resource links and dependencies, connect and compare resources to your clusters, debug the output of kustomize or helm, and more!
+- :green_heart:[Monokle](https://github.com/kubeshop/monokle) :fire::fire::fire: - Monokle helps you create, edit and validate yaml manifests, visualize and validate resource links and dependencies, connect and compare resources to your clusters, debug the output of kustomize or helm, and more!
 - :green_heart:[Okteto](https://github.com/okteto/okteto) :fire::fire::fire::fire: - `okteto` accelerates the development workflow of Kubernetes applications.
 - :green_heart:[Telepresence](https://github.com/telepresenceio/telepresence) :fire::fire::fire::fire::fire: - Telepresence provides fast, realistic local development for Kubernetes microservices.
 - :green_heart:[Tilt](https://github.com/tilt-dev/tilt) :fire::fire::fire::fire::fire: - Tilt powers multi-service development and makes sure they behave.
