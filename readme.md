@@ -199,6 +199,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kyverno](https://github.com/kyverno/kyverno) :fire::fire::fire::fire: - Kyverno is a policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans.
 - :green_heart:[Permission manager](https://github.com/sighupio/permission-manager) :fire::fire::fire: - Permission Manager is an application developed by SIGHUP that enables a super-easy and user-friendly RBAC management for Kubernetes.
 - :green_heart:[rakkess](https://github.com/corneliusweig/rakkess) :fire::fire::fire: - kubectl plugin to show an access matrix for server resources
+- :green_heart:[Scout Suite](https://github.com/nccgroup/ScoutSuite) :fire::fire::fire::fire::fire: - Cloud security auditing tool capable of detecting vulnerabilities in Kubernetes clusters
 - [Deepfence ThreatStryker](https://deepfence.io/threatstryker) - Full life cycle Cloud Native Security Observability Platform for kubernetes, virtual machines and serverless.
 - [Kube-Scan](https://github.com/octarinesec/kube-scan) :fire::fire::fire: - Kube-Scan gives a risk score, from 0 (no risk) to 10 (high risk) for each workload.
 - [Teleport](https://github.com/gravitational/teleport) :fire::fire::fire::fire::fire: - Teleport Unified Access Plane enables engineers to quickly access any computing resource anywhere.
