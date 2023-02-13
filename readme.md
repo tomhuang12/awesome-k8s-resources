@@ -202,6 +202,7 @@ Items with :green_heart: indicate open source projects.
 - [Deepfence ThreatStryker](https://deepfence.io/threatstryker) - Full life cycle Cloud Native Security Observability Platform for kubernetes, virtual machines and serverless.
 - [Kube-Scan](https://github.com/octarinesec/kube-scan) :fire::fire::fire: - Kube-Scan gives a risk score, from 0 (no risk) to 10 (high risk) for each workload.
 - [Teleport](https://github.com/gravitational/teleport) :fire::fire::fire::fire::fire: - Teleport Unified Access Plane enables engineers to quickly access any computing resource anywhere.
+- [M9sweeper](https://github.com/m9sweeper/m9sweeper) - free security platform that wraps trivy, Project Falco, kube-bench, kube-hunter, OPA Gatekeeper, and kubesec 
 
 
 ### Service Mesh
