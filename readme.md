@@ -65,6 +65,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Move2Kube](https://github.com/konveyor/move2kube) :fire::fire: - A tool to help users migrate their apps from legacy platforms like Cloud Foundry to Kubernetes and Openshift. Analyses the application source code and generates Kubernetes YAMLs, Helm Charts, Tekton Pipelines, etc. The analysis and generation can be heavily customized to produce the exact output that you want.
 - :green_heart:[nova](https://github.com/FairwindsOps/nova/) :fire::fire: - Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories.
 - :green_heart:[Plural](https://github.com/pluralsh/plural) :fire::fire: - Plural is a CLI tool and holistic DevOps management platform for rapidly deploying, managing, and monitoring open-source applications on Kubernetes.
+- :green_heart:[RBAC Lookup](https://github.com/FairwindsOps/rbac-lookup) :fire::fire::fire: - RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name.
 - :green_heart:[stern](https://github.com/stern/stern) :fire::fire::fire::fire::fire: - Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod.
 
 ### Cluster Provisioning
@@ -88,7 +89,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Argo Events](https://github.com/argoproj/argo-events) :fire::fire::fire::fire: - Argo Events is an event-driven workflow automation framework for Kubernetes which helps you trigger K8s objects, Argo Workflows, Serverless workloads, etc.
 - :green_heart:[Argo Rollouts](https://github.com/argoproj/argo-rollouts) :fire::fire::fire::fire: - Argo Rollouts controller, uses the Rollout custom resource to provide additional deployment strategies such as Blue Green and Canary to Kubernetes.
 - :green_heart:[Argo Workflows](https://github.com/argoproj/argo) - Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
-- [Codefresh](https://codefresh.io/) - Codefresh is a Docker-native CI/CD platform. Instantly build, test and deploy Docker images to Kubernetes.
 - :green_heart:[Flagger](https://github.com/weaveworks/flagger) :fire::fire::fire::fire::fire: - Flagger is a progressive delivery tool that automates the release process for applications running on Kubernetes.
 - :green_heart:[Flux2](https://github.com/fluxcd/flux2) :fire::fire::fire::fire::fire: - Flux version 2 is built from the ground up to use Kubernetes' API extension system, and to integrate with Prometheus and other core components of the Kubernetes ecosystem.
 - :green_heart:[k8s-image-swapper](https://github.com/estahn/k8s-image-swapper/) :fire::fire: - `k8s-image-swapper` is a mutating webhook for Kubernetes, downloading images into your own registry and pointing the images to that new location.
@@ -110,6 +110,8 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[KubeDirector](https://github.com/bluek8s/kubedirector) :fire::fire: - KubeDirector uses standard Kubernetes (K8s) facilities of custom resources and API extensions to implement stateful scaleout application clusters.
 - :green_heart:[Kubenav](https://github.com/kubenav/kubenav) :fire::fire::fire::fire: - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - :green_heart:[Liqo](https://github.com/liqotech/liqo) :fire::fire: - Liqo implements Dynamic resource sharing across different Kubernetes clusters (e.g.; offloading pods and services), supporting decentralized governance.
+- :green_heart:[Pluto](https://github.com/FairwindsOps/pluto) :fire::fire::fire::fire: - Pluto is a utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.
+- :green_heart:[Polaris](https://github.com/FairwindsOps/polaris) :fire::fire::fire::fire::fire: - Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration.
 - :green_heart:[The Hierarchical Namespace Controller](https://github.com/kubernetes-sigs/multi-tenancy/tree/master/incubator/hnc) :fire::fire::fire: - Hierarchical namespaces make it easier to share your cluster by making namespaces more powerful.
 
 ### Secrets Management
@@ -120,6 +122,7 @@ Items with :green_heart: indicate open source projects.
 ### Networking
 - :green_heart:[Calico Networking](https://github.com/projectcalico/calico) :fire::fire::fire::fire::fire: - Calico is an open source networking and network security solution for containers, virtual machines, and bare-metal workloads
 - :green_heart:[cert-manager](https://github.com/jetstack/cert-manager) :fire::fire::fire::fire::fire: - cert-manager is a Kubernetes add-on to automate the management and issuance of TLS certificates from various issuing sources.
+- :green_heart:[cilium](https://github.com/cilium/cilium) :fire::fire::fire::fire::fire: - Cilium is a networking, observability, and security solution with an eBPF-based dataplane.
 - :green_heart:[CoreDNS](https://github.com/coredns/coredns) :fire::fire::fire::fire::fire: - CoreDNS is a fast and flexible DNS server that works on Kubernetes.
 - :green_heart:[ingress-nginx](https://github.com/kubernetes/ingress-nginx) :fire::fire::fire::fire::fire: - `ingress-nginx` is an Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer.
 - :green_heart:[Kong for Kubernetes](https://github.com/Kong/kubernetes-ingress-controller) :fire::fire::fire::fire: - Configure plugins, health checking, load balancing and more in Kong for Kubernetes Services.
@@ -133,9 +136,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Longhorn](https://github.com/longhorn/longhorn) :fire::fire::fire::fire::fire: - Longhorn is a distributed block storage system for Kubernetes.
 - :green_heart:[OpenEBS](https://github.com/openebs/openebs) :fire::fire::fire::fire::fire: - OpenEBS is the most widely deployed and easy to use open-source storage solution for Kubernetes.
 - :green_heart:[Rook](https://github.com/rook/rook) :fire::fire::fire::fire::fire: - Rook is an open source cloud-native storage orchestrator for Kubernetes.
-- [Amazon EBS CSI Driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) :fire::fire: - The Amazon Elastic Block Store Container Storage Interface (CSI) Driver provides a CSI interface used by Container Orchestrators to manage the lifecycle of Amazon EBS volumes.
-- [Amazon EFS CSI Driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) :fire::fire: - The Amazon Elastic File System Container Storage Interface (CSI) Driver implements the CSI specification for container orchestrators to manage the lifecycle of Amazon EFS filesystems.
-- [Amazon FSx for Lustre CSI Driver](https://github.com/kubernetes-sigs/aws-fsx-csi-driver) :fire: - The Amazon FSx for Lustre Container Storage Interface (CSI) Driver implements CSI specification for container orchestrators (CO) to manage lifecycle of Amazon FSx for Lustre filesystems.
 
 ### Testing and Troubleshooting
 - :green_heart:[Chaos Mesh](https://github.com/pingcap/chaos-mesh) :fire::fire::fire::fire::fire: - Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
@@ -158,7 +158,7 @@ Items with :green_heart: indicate open source projects.
 ### Monitoring, Alerts, and Visualization
 - :green_heart:[BotKube](https://github.com/infracloudio/botkube) :fire::fire::fire::fire: - BotKube integration with Slack or Mattermost helps you monitor your Kubernetes cluster, debug critical deployments and gives recommendations for standard practices by running checks on the Kubernetes resources.
 - :green_heart:[Cortex](https://github.com/cortexproject/cortex) :fire::fire::fire::fire::fire: - Cortex provides horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
-- :green_heart:[Goldilocks](https://github.com/FairwindsOps/goldilocks) :fire::fire::fire: - This tool creates a vertical pod autoscaler for each deployment in a namespace and then queries them for information.
+- :green_heart:[Goldilocks](https://github.com/FairwindsOps/goldilocks) :fire::fire::fire: - Goldilocks is a utility that can help you identify a starting point for resource requests and limits.
 - :green_heart:[Grafana](https://github.com/grafana/grafana) :fire::fire::fire::fire::fire: - Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored.
 - :green_heart:[Helm Dashboard](https://github.com/komodorio/helm-dashboard) :fire::fire::fire::fire: - The missing UI for Helm. The Helm Dashboard plugin offers a UI-driven way to view installed Helm charts, see their revision history and corresponding k8s resources. 
 - :green_heart:[k8s-image-availability-exporter](https://github.com/flant/k8s-image-availability-exporter) :fire: - Prometheus exporter that warns you proactively about images that are defined in Kubernetes objects but are not available in the container registry. 
@@ -199,18 +199,14 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kyverno](https://github.com/kyverno/kyverno) :fire::fire::fire::fire: - Kyverno is a policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans.
 - :green_heart:[Permission manager](https://github.com/sighupio/permission-manager) :fire::fire::fire: - Permission Manager is an application developed by SIGHUP that enables a super-easy and user-friendly RBAC management for Kubernetes.
 - :green_heart:[rakkess](https://github.com/corneliusweig/rakkess) :fire::fire::fire: - kubectl plugin to show an access matrix for server resources
-- [Deepfence ThreatStryker](https://deepfence.io/threatstryker) - Full life cycle Cloud Native Security Observability Platform for kubernetes, virtual machines and serverless.
-- [Kube-Scan](https://github.com/octarinesec/kube-scan) :fire::fire::fire: - Kube-Scan gives a risk score, from 0 (no risk) to 10 (high risk) for each workload.
-- [Teleport](https://github.com/gravitational/teleport) :fire::fire::fire::fire::fire: - Teleport Unified Access Plane enables engineers to quickly access any computing resource anywhere.
+- :green_heart:[Teleport](https://github.com/gravitational/teleport) :fire::fire::fire::fire::fire: - Teleport Unified Access Plane enables engineers to quickly access any computing resource anywhere.
 
 
 ### Service Mesh
 - :green_heart:[Istio](https://github.com/istio/istio) :fire::fire::fire::fire::fire: - An open platform to connect, manage, and secure microservices.
 - :green_heart:[Linkerd](https://github.com/linkerd/linkerd) :fire::fire::fire::fire::fire: - Linkerd is a transparent service mesh, designed to make modern applications safe and sane.
 - :green_heart:[Open Service Mesh](https://github.com/openservicemesh/osm/) :fire::fire::fire::fire::fire: - Open Service Mesh (OSM) is a lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
-- [AWS App Mesh](https://aws.amazon.com/app-mesh/) - A service mesh service offered by AWS that works on AWS infrastructure services such as EKS and Fargate.
-- [Consul](https://www.hashicorp.com/products/consul/multi-platform-service-mesh/) - HashiCorp's service mesh service that is infrastructure agnostic.
-- [NGINX Service Mesh](https://www.nginx.com/products/nginx-service-mesh) - NGINX Service Mesh (NSM) provides a turnkey, secure, service-to-service solution for container traffic management, with a unified data plane for ingress and egress management in a single configuration.
+
 
 ### Development Tools
 - :green_heart:[Eclipse JKube](https://github.com/eclipse/jkube) :fire::fire: - Tools and plugins for Java developers that help you create container images along with the required manifests to deploy your applications to Kubernetes.
