@@ -199,7 +199,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kyverno](https://github.com/kyverno/kyverno) :fire::fire::fire::fire: - Kyverno is a policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans.
 - :green_heart:[Permission manager](https://github.com/sighupio/permission-manager) :fire::fire::fire: - Permission Manager is an application developed by SIGHUP that enables a super-easy and user-friendly RBAC management for Kubernetes.
 - :green_heart:[rakkess](https://github.com/corneliusweig/rakkess) :fire::fire::fire: - kubectl plugin to show an access matrix for server resources
-- :green_heart:[Rönd](https://github.com/rond-authz/rond) :fire: - Rönd is an open-source lightweight Kubernetes sidecar container that defines security policies over your APIs and also natively allows you to build an RBAC/ABAC solution.
+- :green_heart:[Rönd](https://github.com/rond-authz/rond) :fire: - Rönd is an open-source lightweight Kubernetes sidecar container that helps you protect your APIs with simple security policies. It also natively allows you to build your RBAC/ABAC solution.
 - :green_heart:[Teleport](https://github.com/gravitational/teleport) :fire::fire::fire::fire::fire: - Teleport Unified Access Plane enables engineers to quickly access any computing resource anywhere.
 
 
