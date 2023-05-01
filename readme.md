@@ -67,6 +67,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Plural](https://github.com/pluralsh/plural) :fire::fire: - Plural is a CLI tool and holistic DevOps management platform for rapidly deploying, managing, and monitoring open-source applications on Kubernetes.
 - :green_heart:[RBAC Lookup](https://github.com/FairwindsOps/rbac-lookup) :fire::fire::fire: - RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name.
 - :green_heart:[stern](https://github.com/stern/stern) :fire::fire::fire::fire::fire: - Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod.
+- [s9k](https://github.com/MoserMichael/s9k)  - s9k provides a Web UI to to interact with your Kubernetes clusters. You can run the web server locally in a docker container.
 
 ### Cluster Provisioning
 - :green_heart:[Bootkube](https://github.com/kubernetes-sigs/bootkube) :fire::fire::fire::fire: - Bootkube is a tool for launching self-hosted Kubernetes clusters.
@@ -83,6 +84,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[microK8s](https://github.com/ubuntu/microk8s) :fire::fire::fire::fire::fire: - The smallest, fastest Kubernetes
 - :green_heart:[Minikube](https://github.com/kubernetes/minikube) :fire::fire::fire::fire::fire: - minikube implements a local Kubernetes cluster on macOS,Linux,all in a binary less than 100 MB.
 - [Kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) - kubeadm performs the actions necessary to get a minimum viable cluster up and running.
+- [kind_helper](https://github.com/MoserMichael/kind-helper/) - a script that downloads kind and sets up a kind test cluster, with local docker registry and ingress (as an option)
 
 ### Automation and CI/CD
 - :green_heart:[Argo CD](https://github.com/argoproj/argo-cd) :fire::fire::fire::fire::fire: - Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
