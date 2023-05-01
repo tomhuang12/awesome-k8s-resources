@@ -67,7 +67,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Plural](https://github.com/pluralsh/plural) :fire::fire: - Plural is a CLI tool and holistic DevOps management platform for rapidly deploying, managing, and monitoring open-source applications on Kubernetes.
 - :green_heart:[RBAC Lookup](https://github.com/FairwindsOps/rbac-lookup) :fire::fire::fire: - RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name.
 - :green_heart:[stern](https://github.com/stern/stern) :fire::fire::fire::fire::fire: - Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod.
-- [s9k](https://github.com/MoserMichael/s9k)  - s9k provides a Web UI to to interact with your Kubernetes clusters. You can run the web server locally in a docker container.
+- [s9k](https://github.com/MoserMichael/s9k)  - s9k provides a Web UI to to interact with your Kubernetes clusters. Allows to attach a shell to your pod in your browser. You can run the web server locally in a docker container.
 
 ### Cluster Provisioning
 - :green_heart:[Bootkube](https://github.com/kubernetes-sigs/bootkube) :fire::fire::fire::fire: - Bootkube is a tool for launching self-hosted Kubernetes clusters.
