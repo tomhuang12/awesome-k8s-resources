@@ -82,6 +82,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[kubespray](https://github.com/kubernetes-sigs/kubespray) :fire::fire::fire::fire::fire: - Deploy a production ready Kubernetes cluster
 - :green_heart:[microK8s](https://github.com/ubuntu/microk8s) :fire::fire::fire::fire::fire: - The smallest, fastest Kubernetes
 - :green_heart:[Minikube](https://github.com/kubernetes/minikube) :fire::fire::fire::fire::fire: - minikube implements a local Kubernetes cluster on macOS,Linux,all in a binary less than 100 MB.
+- :green_heart:[Talos Linux](https://github.com/siderolabs/talos) :fire::fire::fire::fire::fire: - Talos Linux is a minimal, immutable, secure OS that installs vanilla Kubernetes - for production datacenters, K8s@home, and Edge.
 - [Kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) - kubeadm performs the actions necessary to get a minimum viable cluster up and running.
 
 ### Automation and CI/CD
