@@ -173,6 +173,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[kubewatch](https://github.com/robusta-dev/kubewatch) :fire::fire::fire::fire::fire: - `kubewatch` is a Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels.
 - :green_heart:[Lens](https://github.com/lensapp/lens) :fire::fire::fire::fire::fire: - Lens it's an useful, attractive, open source user interface (UI) for working with Kubernetes clusters.
 - :green_heart:[Mizu](https://github.com/up9inc/mizu) :fire::fire::fire: - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
+- :green_heart:[Network mapper](https://github.com/otterize/network-mapper) :fire::fire: - Map Kubernetes in-cluster traffic and export as text, intents, or an image.
 - :green_heart:[Octant](https://github.com/vmware-tanzu/octant) :fire::fire::fire::fire::fire: - Octant is a highly extensible platform for developers to better understand the complexity of Kubernetes clusters. 
 - :green_heart:[Popeye](https://github.com/derailed/popeye) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 - :green_heart:[Prometheus](https://github.com/prometheus/prometheus) :fire::fire::fire::fire::fire: - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.
@@ -191,6 +192,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) :fire::fire::fire: - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - :green_heart:[Falco](https://github.com/falcosecurity/falco) :fire::fire::fire::fire::fire: - Falco is a behavioral activity monitor designed to detect anomalous activity in your applications. You can use Falco to monitor run-time security of your Kubernetes applications and internal components.
 - :green_heart:[Gatekeeper](https://github.com/open-policy-agent/gatekeeper) :fire::fire::fire::fire::fire: - Policy controller for Kubernetes
+- :green_heart:[Intents operator](https://github.com/otterize/intents-operator) :fire::fire: - Manage network policies, Istio Authorization Policies, and Kafka ACLs in a Kubernetes cluster with ease.
 - :green_heart:[k-rail](https://github.com/cruise-automation/k-rail) :fire::fire: - k-rail is a workload policy enforcement tool for Kubernetes. It can help you secure a multi tenant cluster with minimal disruption and maximum velocity.
 - :green_heart:[Konstraint](https://github.com/plexsystems/konstraint) :fire::fire: - Konstraint is a CLI tool to assist with the creation and management of constraints when using Gatekeeper.
 - :green_heart:[kube-bench](https://github.com/aquasecurity/kube-bench) :fire::fire::fire::fire::fire: - kube-bench is a Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
