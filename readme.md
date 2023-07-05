@@ -93,7 +93,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Flagger](https://github.com/weaveworks/flagger) :fire::fire::fire::fire::fire: - Flagger is a progressive delivery tool that automates the release process for applications running on Kubernetes.
 - :green_heart:[Flux2](https://github.com/fluxcd/flux2) :fire::fire::fire::fire::fire: - Flux version 2 is built from the ground up to use Kubernetes' API extension system, and to integrate with Prometheus and other core components of the Kubernetes ecosystem.
 - :green_heart:[k8s-image-swapper](https://github.com/estahn/k8s-image-swapper/) :fire::fire: - `k8s-image-swapper` is a mutating webhook for Kubernetes, downloading images into your own registry and pointing the images to that new location.
-- :green_heart:[KEDA](https://github.com/kedacore/keda) :fire::fire::fire::fire::fire: - KEDA allows for fine grained autoscaling (including to/from zero) for event driven Kubernetes workloads.
 - :green_heart:[KubeSphere](https://github.com/kubesphere/kubesphere) :fire::fire::fire::fire::fire: - KubeSphere is a distributed operating system providing cloud native stack with Kubernetes as its kernel, and aims to be plug-and-play architecture for third-party applications seamless integration to boost its ecosystem.
 - :green_heart:[Reloader](https://github.com/stakater/Reloader) :fire::fire::fire::fire::fire: - Reloader can watch changes in `ConfigMap` and `Secret` and do rolling upgrades on Pods with their associated `DeploymentConfigs`, `Deployments`, `Daemonsets` and `Statefulsets`.
 - :green_heart:[terranetes-controller](https://github.com/appvia/terranetes-controller) :fire: - Terranetes controller enables the platform team to deliver self-service capabilities around cloud resources.
@@ -106,7 +105,7 @@ Items with :green_heart: indicate open source projects.
 ### Cluster Resources Management
 - :green_heart:[Clusterpedia](https://github.com/clusterpedia-io/clusterpedia) :fire: - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
 - :green_heart:[Grafana Tanka](https://github.com/grafana/tanka) :fire::fire::fire::fire: - The clean, concise and super flexible alternative to YAML for your Kubernetes cluster.
-- :green_heart:[Keda](https://github.com/kedacore/keda) :fire::fire::fire::fire::fire: - Event-driven Autoscaling in Kubernetes
+- :green_heart:[KEDA](https://github.com/kedacore/keda) :fire::fire::fire::fire::fire: - KEDA allows for fine grained autoscaling (including to/from zero) for event driven Kubernetes workloads.
 - :green_heart:[Kruise](https://github.com/openkruise/kruise) :fire::fire::fire::fire::fire: - Kruise consists of several controllers which extend and complement the Kubernetes core controllers for workload management.
 - :green_heart:[KubeDirector](https://github.com/bluek8s/kubedirector) :fire::fire: - KubeDirector uses standard Kubernetes (K8s) facilities of custom resources and API extensions to implement stateful scaleout application clusters.
 - :green_heart:[Kubenav](https://github.com/kubenav/kubenav) :fire::fire::fire::fire: - kubenav is the navigator for your Kubernetes clusters right in your pocket.
@@ -142,7 +141,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Chaos Mesh](https://github.com/pingcap/chaos-mesh) :fire::fire::fire::fire::fire: - Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 - :green_heart:[chaoskube](https://github.com/linki/chaoskube) :fire::fire::fire::fire: - `chaoskube` periodically kills random pods in your Kubernetes cluster.
 - :green_heart:[Conftest](https://github.com/open-policy-agent/conftest) :fire::fire::fire::fire: - Conftest helps you write tests against structured configuration data.
-- :green_heart:[Copper](https://github.com/cloud66-oss/copper) :fire::fire: - A configuration file validator for Kubernetes. This is specifically useful with Kubernetes configuration files to enforce best practices, apply policies and compliance requirements.
 - :green_heart:[DETIK](https://github.com/bats-core/bats-detik) :fire: - A library that simplifies end-to-end testing of K8s applications by using [BATS](https://github.com/bats-core/bats-core) assertions and natural language queries.
 - :green_heart:[k6](https://github.com/loadimpact/k6) :fire::fire::fire::fire::fire: - k6 is a modern load testing tool, building on Load Impact's years of experience in the load and performance testing industry.
 - :green_heart:[ksniff](https://github.com/eldadru/ksniff) :fire::fire::fire::fire: - A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster.
@@ -174,7 +172,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Lens](https://github.com/lensapp/lens) :fire::fire::fire::fire::fire: - Lens it's an useful, attractive, open source user interface (UI) for working with Kubernetes clusters.
 - :green_heart:[Mizu](https://github.com/up9inc/mizu) :fire::fire::fire: - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 - :green_heart:[Network mapper](https://github.com/otterize/network-mapper) :fire::fire: - Map Kubernetes in-cluster traffic and export as text, intents, or an image.
-- :green_heart:[Octant](https://github.com/vmware-tanzu/octant) :fire::fire::fire::fire::fire: - Octant is a highly extensible platform for developers to better understand the complexity of Kubernetes clusters. 
 - :green_heart:[Popeye](https://github.com/derailed/popeye) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 - :green_heart:[Prometheus](https://github.com/prometheus/prometheus) :fire::fire::fire::fire::fire: - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.
 - :green_heart:[Searchlight](https://github.com/searchlight/searchlight) :fire::fire: - Searchlight/Icinga periodically runs various checks on a Kubernetes cluster and sends notifications if detects an issue.
@@ -201,6 +198,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kubesploit](https://github.com/cyberark/kubesploit) :fire::fire::fire: - Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent dedicated for containerized environments written in Golang and built on top of Merlin project by Russel Van Tuyl (@Ne0nd0g).
 - :green_heart:[KubiScan](https://github.com/cyberark/KubiScan) :fire::fire::fire: - A tool for scanning Kubernetes cluster for risky permissions in Kubernetes's Role-based access control (RBAC) authorization model.
 - :green_heart:[Kyverno](https://github.com/kyverno/kyverno) :fire::fire::fire::fire: - Kyverno is a policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans.
+- :green_heart:[Netchecks](https://github.com/hardbyte/netchecks/) :fire: - Set of tools for testing network conditions and asserting that they are as expected.
 - :green_heart:[Permission manager](https://github.com/sighupio/permission-manager) :fire::fire::fire: - Permission Manager is an application developed by SIGHUP that enables a super-easy and user-friendly RBAC management for Kubernetes.
 - :green_heart:[rakkess](https://github.com/corneliusweig/rakkess) :fire::fire::fire: - kubectl plugin to show an access matrix for server resources
 - :green_heart:[Rönd](https://github.com/rond-authz/rond) :fire: - Rönd is an open-source lightweight Kubernetes sidecar container that helps you protect your APIs with simple security policies. It also natively allows you to build your RBAC/ABAC solution.
@@ -256,7 +254,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[OpenCost](https://github.com/opencost/opencost) :fire::fire::fire::fire::fire: - OpenCost models give teams visibility into current and historical Kubernetes spend and resource allocation.
 - :green_heart:[K8sPurger](https://github.com/yogeshkk/K8sPurger) :fire: - `K8sPurger` Hunt Unused Resources In Kubernetes.
 - :green_heart:[KubeEdge](https://github.com/kubeedge/kubeedge) :fire::fire::fire::fire::fire: - KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
-- :green_heart:[Kubeless](https://github.com/kubeless/kubeless) :fire::fire::fire::fire::fire: - `kubeless` is a Kubernetes-native serverless framework that lets you deploy small bits of code without having to worry about the underlying infrastructure plumbing.
 - :green_heart:[KubePug](https://github.com/rikatz/kubepug) :fire::fire: - A tool to check deprecations before upgrading Kubernetes version
 - :green_heart:[Shell-operator](https://github.com/flant/shell-operator) :fire::fire::fire::fire: - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
 
