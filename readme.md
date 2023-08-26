@@ -59,6 +59,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[kubectl tree](https://github.com/ahmetb/kubectl-tree) :fire::fire::fire::fire: - A kubectl plugin to explore ownership relationships between Kubernetes objects through owners.
 - :green_heart:[kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) :fire::fire::fire::fire::fire: - This repository contains a script to generate hundreds of convenient shell aliases for kubectl.
 - :green_heart:[kubectx + kubens](https://github.com/ahmetb/kubectx) :fire::fire::fire::fire::fire: - `kubectx` helps you switch between clusters back and forth, and `kubens` helps you switch between Kubernetes namespaces smoothly.
+- :green_heart:[kube-ps1](https://github.com/jonmosco/kube-ps1) :fire::fire::fire::fire::fire: - kube-ps1: A script that lets you add the current Kubernetes context and namespace configured on kubectl to your Bash/Zsh prompt strings (i.e. the $PS1).
 - :green_heart:[kubediff](https://github.com/weaveworks/kubediff) :fire::fire::fire: - Kubediff is a tool for Kubernetes to show you the differences between your running configuration and your version controlled configuration.
 - :green_heart:[kubeprompt](https://github.com/jlesquembre/kubeprompt) :fire: - Isolates KUBECONFIG in each shell and shows the current Kubernetes context/namespace in your prompt
 - :green_heart:[Kubevela](https://github.com/oam-dev/kubevela) :fire::fire::fire::fire::fire: - KubeVela is an easy-to-use yet extensible platform that enables them to design and ship applications with minimal effort.
