@@ -131,7 +131,8 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kube Karp](https://github.com/immanuelfodor/kube-karp) :fire: - Add a floating virtual IP to Kubernetes cluster nodes for load balancing easily based on the CARP protocol
 - :green_heart:[kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) :fire::fire::fire::fire::fire:  - An implementation of an Ingress controller for NGINX and NGINX Plus (commercial).
 - :green_heart:[kube-ovn](https://github.com/alauda/kube-ovn) :fire::fire::fire::fire:  - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations.
-
+- :green_heart:[loxilb](https://github.com/loxilb-io/loxilb) :fire::fire::fire:  - A Kubernetes service load-balancer based on eBPF.
+  
 ### Storage
 - :green_heart:[Longhorn](https://github.com/longhorn/longhorn) :fire::fire::fire::fire::fire: - Longhorn is a distributed block storage system for Kubernetes.
 - :green_heart:[OpenEBS](https://github.com/openebs/openebs) :fire::fire::fire::fire::fire: - OpenEBS is the most widely deployed and easy to use open-source storage solution for Kubernetes.
