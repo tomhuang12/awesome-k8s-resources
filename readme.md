@@ -255,8 +255,8 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[K8sPurger](https://github.com/yogeshkk/K8sPurger) :fire: - `K8sPurger` Hunt Unused Resources In Kubernetes.
 - :green_heart:[KubeEdge](https://github.com/kubeedge/kubeedge) :fire::fire::fire::fire::fire: - KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
 - :green_heart:[KubePug](https://github.com/rikatz/kubepug) :fire::fire: - A tool to check deprecations before upgrading Kubernetes version
+- :green_heart:[Kube No Trouble](https://github.com/doitintl/kube-no-trouble) :fire::fire::fire::fire::fire: - Easily check your clusters for use of deprecated APIs
 - :green_heart:[Shell-operator](https://github.com/flant/shell-operator) :fire::fire::fire::fire: - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
-
 
 ## Guides, Documentations, Blogs, and Learnings
 
