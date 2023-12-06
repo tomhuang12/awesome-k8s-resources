@@ -103,6 +103,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Weave GitOps](https://github.com/weaveworks/weave-gitops) :fire::fire: - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
 
 ### Cluster Resources Management
+- :green_heart: [Meshery](https://github.com/meshery/meshery) :fire::fire::fire::fire::fire: - Meshery is an open-source cloud-native manager that enables the design and management of all Kubernetes-based infrastructure and applications.
 - :green_heart:[Clusterpedia](https://github.com/clusterpedia-io/clusterpedia) :fire: - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
 - :green_heart:[Grafana Tanka](https://github.com/grafana/tanka) :fire::fire::fire::fire: - The clean, concise and super flexible alternative to YAML for your Kubernetes cluster.
 - :green_heart:[KEDA](https://github.com/kedacore/keda) :fire::fire::fire::fire::fire: - KEDA allows for fine grained autoscaling (including to/from zero) for event driven Kubernetes workloads.
