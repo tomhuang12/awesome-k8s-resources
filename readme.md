@@ -103,7 +103,6 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Weave GitOps](https://github.com/weaveworks/weave-gitops) :fire::fire: - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
 
 ### Cluster Resources Management
-- :green_heart: [Meshery](https://github.com/meshery/meshery) :fire::fire::fire::fire::fire: - Meshery is an open-source cloud-native manager that enables the design and management of all Kubernetes-based infrastructure and applications.
 - :green_heart:[Clusterpedia](https://github.com/clusterpedia-io/clusterpedia) :fire: - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
 - :green_heart:[Grafana Tanka](https://github.com/grafana/tanka) :fire::fire::fire::fire: - The clean, concise and super flexible alternative to YAML for your Kubernetes cluster.
 - :green_heart:[KEDA](https://github.com/kedacore/keda) :fire::fire::fire::fire::fire: - KEDA allows for fine grained autoscaling (including to/from zero) for event driven Kubernetes workloads.
@@ -111,6 +110,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[KubeDirector](https://github.com/bluek8s/kubedirector) :fire::fire: - KubeDirector uses standard Kubernetes (K8s) facilities of custom resources and API extensions to implement stateful scaleout application clusters.
 - :green_heart:[Kubenav](https://github.com/kubenav/kubenav) :fire::fire::fire::fire: - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - :green_heart:[Liqo](https://github.com/liqotech/liqo) :fire::fire: - Liqo implements Dynamic resource sharing across different Kubernetes clusters (e.g.; offloading pods and services), supporting decentralized governance.
+- :green_heart: [Meshery](https://github.com/meshery/meshery) :fire::fire::fire::fire::fire: - Meshery is an open-source cloud-native manager that enables the design and management of all Kubernetes-based infrastructure and applications.
 - :green_heart:[Pluto](https://github.com/FairwindsOps/pluto) :fire::fire::fire::fire: - Pluto is a utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.
 - :green_heart:[Polaris](https://github.com/FairwindsOps/polaris) :fire::fire::fire::fire::fire: - Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration.
 - :green_heart:[The Hierarchical Namespace Controller](https://github.com/kubernetes-sigs/multi-tenancy/tree/master/incubator/hnc) :fire::fire::fire: - Hierarchical namespaces make it easier to share your cluster by making namespaces more powerful.
