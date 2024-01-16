@@ -162,6 +162,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Canary Checker](https://github.com/flanksource/canary-checker) :fire: - Canary Checker is a kubernetes-native health check platform with 30+ built-in health check types.
 - :green_heart:[Cortex](https://github.com/cortexproject/cortex) :fire::fire::fire::fire::fire: - Cortex provides horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
 - :green_heart:[Goldilocks](https://github.com/FairwindsOps/goldilocks) :fire::fire::fire: - Goldilocks is a utility that can help you identify a starting point for resource requests and limits.
+- :green_heart:[Goldpinger](https://github.com/bloomberg/goldpinger) :fire::fire::fire::fire::fire: - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - :green_heart:[Grafana](https://github.com/grafana/grafana) :fire::fire::fire::fire::fire: - Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored.
 - :green_heart:[Helm Dashboard](https://github.com/komodorio/helm-dashboard) :fire::fire::fire::fire: - The missing UI for Helm. The Helm Dashboard plugin offers a UI-driven way to view installed Helm charts, see their revision history and corresponding k8s resources. 
 - :green_heart:[Kiali](https://github.com/kiali/kiali) :fire::fire::fire::fire::fire: - Kiali works with Istio to visualise the service mesh topology.
