@@ -159,17 +159,20 @@ Items with :green_heart: indicate open source projects.
 
 ### Monitoring, Alerts, and Visualization
 - :green_heart:[BotKube](https://github.com/infracloudio/botkube) :fire::fire::fire::fire: - BotKube integration with Slack or Mattermost helps you monitor your Kubernetes cluster, debug critical deployments and gives recommendations for standard practices by running checks on the Kubernetes resources.
+- :green_heart:[Canary Checker](https://github.com/flanksource/canary-checker) :fire: - Canary Checker is a kubernetes-native health check platform with 30+ built-in health check types.
 - :green_heart:[Cortex](https://github.com/cortexproject/cortex) :fire::fire::fire::fire::fire: - Cortex provides horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
 - :green_heart:[Goldilocks](https://github.com/FairwindsOps/goldilocks) :fire::fire::fire: - Goldilocks is a utility that can help you identify a starting point for resource requests and limits.
 - :green_heart:[Grafana](https://github.com/grafana/grafana) :fire::fire::fire::fire::fire: - Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored.
 - :green_heart:[Helm Dashboard](https://github.com/komodorio/helm-dashboard) :fire::fire::fire::fire: - The missing UI for Helm. The Helm Dashboard plugin offers a UI-driven way to view installed Helm charts, see their revision history and corresponding k8s resources. 
-- :green_heart:[k8s-image-availability-exporter](https://github.com/flant/k8s-image-availability-exporter) :fire: - Prometheus exporter that warns you proactively about images that are defined in Kubernetes objects but are not available in the container registry. 
 - :green_heart:[Kiali](https://github.com/kiali/kiali) :fire::fire::fire::fire::fire: - Kiali works with Istio to visualise the service mesh topology.
+- :green_heart:[k8s-image-availability-exporter](https://github.com/flant/k8s-image-availability-exporter) :fire: - Prometheus exporter that warns you proactively about images that are defined in Kubernetes objects but are not available in the container registry. 
 - :green_heart:[kube-capacity](https://github.com/robscott/kube-capacity) :fire::fire::fire: - This is a simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
-- :green_heart:[kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) :fire::fire::fire::fire::fire: - kube-state-metrics is a simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
 - :green_heart:[Kubernetes Dashboard](https://github.com/kubernetes/dashboard) :fire::fire::fire::fire::fire: - Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters.
+- :green_heart:[Kubedev](https://github.com/relferreira/kubedev) :fire: - Kubedev is a powerful and beautiful user interface for managing Kubernetes clusters.
+- :green_heart:[KubeHelper](https://github.com/KubeHelper/kubehelper) :fire: - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
 - :green_heart:[Kubernetes Metrics Server](https://github.com/kubernetes-sigs/metrics-server) :fire::fire::fire::fire::fire: - Metrics Server is a scalable, efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - :green_heart:[Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) :fire::fire::fire::fire: - A tool that aims to provide a common operational picture for multiple Kubernetes clusters.
+- :green_heart:[kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) :fire::fire::fire::fire::fire: - kube-state-metrics is a simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
 - :green_heart:[kubewatch](https://github.com/robusta-dev/kubewatch) :fire::fire::fire::fire::fire: - `kubewatch` is a Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels.
 - :green_heart:[Lens](https://github.com/lensapp/lens) :fire::fire::fire::fire::fire: - Lens it's an useful, attractive, open source user interface (UI) for working with Kubernetes clusters.
 - :green_heart:[Mizu](https://github.com/up9inc/mizu) :fire::fire::fire: - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
@@ -179,8 +182,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Searchlight](https://github.com/searchlight/searchlight) :fire::fire: - Searchlight/Icinga periodically runs various checks on a Kubernetes cluster and sends notifications if detects an issue.
 - :green_heart:[Sloop](https://github.com/salesforce/sloop) :fire::fire::fire: - Sloop monitors Kubernetes, recording histories of events and resource state changes and providing visualizations to aid in debugging past events.
 - :green_heart:[Thanos](https://github.com/thanos-io/thanos) :fire::fire::fire::fire::fire: - Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity.
-- :green_heart:[Kubedev](https://github.com/relferreira/kubedev) :fire: - Kubedev is a powerful and beautiful user interface for managing Kubernetes clusters.
-- :green_heart:[KubeHelper](https://github.com/KubeHelper/kubehelper) :fire: - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
+
 
 ### Backup and Restore
 - :green_heart:[katafygio](https://github.com/bpineau/katafygio) :fire: - katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository.
