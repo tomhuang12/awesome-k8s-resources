@@ -138,6 +138,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Rook](https://github.com/rook/rook) :fire::fire::fire::fire::fire: - Rook is an open source cloud-native storage orchestrator for Kubernetes.
 
 ### Testing and Troubleshooting
+- :green_heart:[Chainsaw](https://github.com/kyverno/chainsaw) :fire: - The ultimate end to end testing tool for Kubernetes operators.
 - :green_heart:[Chaos Mesh](https://github.com/pingcap/chaos-mesh) :fire::fire::fire::fire::fire: - Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 - :green_heart:[chaoskube](https://github.com/linki/chaoskube) :fire::fire::fire::fire: - `chaoskube` periodically kills random pods in your Kubernetes cluster.
 - :green_heart:[Conftest](https://github.com/open-policy-agent/conftest) :fire::fire::fire::fire: - Conftest helps you write tests against structured configuration data.
