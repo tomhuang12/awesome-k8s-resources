@@ -252,6 +252,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Descheduler for Kubernetes](https://github.com/kubernetes-sigs/descheduler) :fire::fire::fire::fire::fire: - Descheduling pods from nodes based on policies
 - :green_heart:[Devtron](https://github.com/devtron-labs/devtron) :fire::fire::fire::fire: - It is designed as a self-serve platform for operationalizing and maintaining applications (AppOps) on kubernetes in a developer friendly way.
 - :green_heart:[OpenCost](https://github.com/opencost/opencost) :fire::fire::fire::fire::fire: - OpenCost models give teams visibility into current and historical Kubernetes spend and resource allocation.
+- :green_heart:[K8s-Cleaner](https://github.com/gianlucam76/k8s-cleaner) :fire: - `k8s-cleaner` identifies and removes unused resources.
 - :green_heart:[K8sPurger](https://github.com/yogeshkk/K8sPurger) :fire: - `K8sPurger` Hunt Unused Resources In Kubernetes.
 - :green_heart:[KubeEdge](https://github.com/kubeedge/kubeedge) :fire::fire::fire::fire::fire: - KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
 - :green_heart:[KubePug](https://github.com/rikatz/kubepug) :fire::fire: - A tool to check deprecations before upgrading Kubernetes version
