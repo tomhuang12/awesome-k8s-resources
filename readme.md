@@ -187,7 +187,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Searchlight](https://github.com/searchlight/searchlight) :fire::fire: - Searchlight/Icinga periodically runs various checks on a Kubernetes cluster and sends notifications if detects an issue.
 - :green_heart:[Sloop](https://github.com/salesforce/sloop) :fire::fire::fire: - Sloop monitors Kubernetes, recording histories of events and resource state changes and providing visualizations to aid in debugging past events.
 - :green_heart:[Thanos](https://github.com/thanos-io/thanos) :fire::fire::fire::fire::fire: - Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity.
-- :green_heart:[K8Studio](https://github.com/guiqui/k8Studio) :fire::fire::fire - K8Studio IDE to manage and visualise Kubernetes Clusters.
+- :green_heart:[K8Studio](https://github.com/guiqui/k8Studio) :fire::fire::fire: - K8Studio IDE to manage and visualise Kubernetes Clusters.
 
 ### Backup and Restore
 - :green_heart:[katafygio](https://github.com/bpineau/katafygio) :fire: - katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository.
