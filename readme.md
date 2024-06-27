@@ -117,6 +117,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart: [Meshery](https://github.com/meshery/meshery) :fire::fire::fire::fire::fire: - Meshery is an open-source cloud-native manager that enables the design and management of all Kubernetes-based infrastructure and applications.
 - :green_heart:[Pluto](https://github.com/FairwindsOps/pluto) :fire::fire::fire::fire: - Pluto is a utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.
 - :green_heart:[Polaris](https://github.com/FairwindsOps/polaris) :fire::fire::fire::fire::fire: - Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration.
+- :green_heart:[Projectsveltos](https://github.com/projectsveltos/addon-manager) :fire: Projectsveltos is a Kubernetes add-on controller that simplifies the deployment and management of add-ons and applications across multiple clusters.
 - :green_heart:[The Hierarchical Namespace Controller](https://github.com/kubernetes-sigs/multi-tenancy/tree/master/incubator/hnc) :fire::fire::fire: - Hierarchical namespaces make it easier to share your cluster by making namespaces more powerful.
 
 ### Secrets Management
