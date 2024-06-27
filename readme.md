@@ -225,6 +225,7 @@ Items with :green_heart: indicate open source projects.
 
 
 ### Development Tools
+- :green_heart:[Cyclops](https://github.com/cyclops-ui/cyclops) :fire::fire: - Customizable UI for Kubernetes deployments
 - :green_heart:[Eclipse JKube](https://github.com/eclipse/jkube) :fire::fire: - Tools and plugins for Java developers that help you create container images along with the required manifests to deploy your applications to Kubernetes.
 - :green_heart:[garden](https://github.com/garden-io/garden) :fire::fire::fire::fire::fire: - Garden provides production-like Kubernetes testing environments for integration tests, QA, and development.
 - :green_heart:[gefyra](https://github.com/gefyrahq/gefyra) :fire::fire::fire: -Gefyra blazingly-fast, rock-solid, local application development ➡️ with Kubernetes.
