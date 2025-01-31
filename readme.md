@@ -49,6 +49,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Helm](https://github.com/helm/helm) :fire::fire::fire::fire::fire: - Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources.
 - :green_heart:[Helmfile](https://github.com/helmfile/helmfile) :fire::fire::fire::fire::fire: - Helmfile is a declarative spec for deploying helm charts.
 - :green_heart:[Helmwave](https://github.com/helmwave/helmwave) :fire::fire::fire: - Helmwave is helm3-native tool for deploy your Helm Charts. It is like Docker-Compose, but for Helm.
+- :green_heart: [Helm Kanvas Snapshot](https://github.com/meshery/helm-kanvas-snapshot) :fire::fire::fire: - Plugin that generates a visual snapshot of Helm charts.
 - :green_heart:[Infra](https://github.com/infrahq/infra) :fire::fire::fire: - Infra enables you to discover and access infrastructure (e.g. Kubernetes, databases). We help you connect an identity provider such as Okta or Azure active directory, and map users/groups with the permissions you set to your infrastructure.
 - :green_heart:[K9s](https://github.com/derailed/k9s) :fire::fire::fire::fire::fire: - K9s provides a terminal UI to interact with your Kubernetes clusters.
 - :green_heart:[kapp](https://github.com/vmware-tanzu/carvel-kapp) :fire::fire::fire: - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
@@ -230,6 +231,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Eclipse JKube](https://github.com/eclipse/jkube) :fire::fire: - Tools and plugins for Java developers that help you create container images along with the required manifests to deploy your applications to Kubernetes.
 - :green_heart:[garden](https://github.com/garden-io/garden) :fire::fire::fire::fire::fire: - Garden provides production-like Kubernetes testing environments for integration tests, QA, and development.
 - :green_heart:[gefyra](https://github.com/gefyrahq/gefyra) :fire::fire::fire: -Gefyra blazingly-fast, rock-solid, local application development ➡️ with Kubernetes.
+- :green_heart: [Kanvas](https://kanvas.new) :fire::fire::fire: - A comprehensive suite of collaborative tools for designing, deploying and managing cloud-native infrastructure.
 - :green_heart:[ko](https://github.com/google/ko) :fire::fire::fire::fire::fire: - `ko` is a tool for building and deploying Golang applications to Kubernetes.
 - :green_heart:[Konfig](https://github.com/cloud66-oss/konfig) :fire: - Konfig is a Kubernetes friendly Rails gem. It can load configuration and secrets from both YAML or folders with individual files and present them to your application the same way.
 - :green_heart:[kubevious](https://github.com/kubevious/Kubevious) :fire::fire::fire::fire: - Kubevious renders all configurations relevant to the application in one place. That saves a lot of time from operators, eliminating the need for looking up settings and digging within selectors and labels.
@@ -291,6 +293,7 @@ Items with :green_heart: indicate open source projects.
 - [Production grade Kubernetes Monitoring using Prometheus](https://medium.com/faun/production-grade-kubernetes-monitoring-using-prometheus-78144b835b60) - A in-depth guide to deploy Prometheus monitoring solution.
 - [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/) - Graphical explanations of Kubernetes
 - [Troubleshooting Kubernetes deployments](https://learnk8s.io/a/troubleshooting-kubernetes.pdf) - A flow chart to troubleshoot a kubernetes deployment in case of issues
+- [Tutorials](https://docs.meshery.io/guides/tutorials) - Hands-on tutorials on using Meshery for collaboratively managing cloud native infrastructure.
  - [Vertical Pod Autoscaling: The Definitive Guide](https://povilasv.me/vertical-pod-autoscaling-the-definitive-guide/) - An in-depth explanation on Kubernetes VPA: what it is, how it works, how to use it and which limitations it has. 
 - [Writing Your First Kubernetes Operator](https://medium.com/faun/writing-your-first-kubernetes-operator-8f3df4453234) - In this article, we’ll see how to build and deploy your first Kubernetes Operator using the Operator SDK.
 
@@ -317,6 +320,7 @@ Items with :green_heart: indicate open source projects.
 - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) :fire::fire::fire::fire: - A cheatsheet containing many helpful kubectl commands
 - [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/) - A high-level overview of the basic types of resources provided by the Kubernetes API and their primary functions.  
 - [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) - This tutorial provides a walkthrough of the basics of the Kubernetes cluster orchestration system.
+- [Meshery Playground](https://play.meshery.io/) Live cluster environment in Meshery Playground can be used for exploring all CNCF projects and learning cloud and cloud native technologies.
 - [Play with Kubernetes](https://labs.play-with-k8s.com/) - Play with Kubernetes is a playground which allows users to run K8s clusters in a matter of seconds.
 - [Ready-to-use commands and tips for kubectl](https://blog.flant.com/ready-to-use-commands-and-tips-for-kubectl/) - Various kubectl tips and tricks by Flant’s engineers.  
 - [Running ZooKeeper, A Distributed System Coordinator](https://kubernetes.io/docs/tutorials/stateful-application/zookeeper/) - This tutorial demonstrates running Apache Zookeeper on Kubernetes using StatefulSets, PodDisruptionBudgets, and PodAntiAffinity.
