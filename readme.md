@@ -306,6 +306,7 @@ Items with :green_heart: indicate open source projects.
 - [Scaling Kubernetes to 2,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-2500-nodes/) + [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/) - Issues you will encounter when running high-scale Kubernetes workloads.
 - [Service Mesh Comparison](https://servicemesh.es/) - An easy compensation to help choose one of the service Mesh implementations.  
 - [ArgoCD Best Practices](https://datree.io/resources/argocd-best-practices-you-should-know)
+- [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
 
 ### Learnings and Documentations
 - [A Beginner’s Guide to Kubernetes](https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6) - A comprehensive introduction to Kubernetes architecture
@@ -325,6 +326,7 @@ Items with :green_heart: indicate open source projects.
 - [Set Up a CI/CD Pipeline with Kubernetes](https://www.linux.com/audience/enterprise/set-cicd-pipeline-kubernetes-part-1-overview/) - A end-to-end guide to set up a CI/CD Pipeline with Kubernetes.
 - [StatefulSet Basics](https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/) - This tutorial provides an introduction to managing applications with StatefulSets.
 - [Webinar: K8s with OPA Gatekeeper](https://www.youtube.com/watch?v=v4wJE3I8BYM) - How to use OPA to control what end-users can do on the cluster and ways to ensure that clusters are in compliance with company policies.  
+- [Kubernetes Cheat Sheet](https://spacelift.io/blog/kubernetes-cheat-sheet) - 15 Kubectl Commands & Objects
 
 ### Certification Guides
 - [Certified Kubernetes Security Specialist - CKSS](https://github.com/ijelliti/CKSS-Certified-Kubernetes-Security-Specialist) :fire::fire: - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam.
