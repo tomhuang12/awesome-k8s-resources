@@ -71,6 +71,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Plural](https://github.com/pluralsh/plural) :fire::fire: - Plural is a CLI tool and holistic DevOps management platform for rapidly deploying, managing, and monitoring open-source applications on Kubernetes.
 - :green_heart:[RBAC Lookup](https://github.com/FairwindsOps/rbac-lookup) :fire::fire::fire: - RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name.
 - :green_heart:[stern](https://github.com/stern/stern) :fire::fire::fire::fire::fire: - Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod.
+- :green_heart:[Kustomize](https://github.com/kubernetes-sigs/kustomize/) :fire::fire::fire::fire::fire: - Kustomize introduces a template-free way to customize application configuration that simplifies the use of off-the-shelf applications. Now, built into `kubectl` as `apply -k`.
 
 ### Cluster Provisioning
 - :green_heart:[Bootkube](https://github.com/kubernetes-sigs/bootkube) :fire::fire::fire::fire: - Bootkube is a tool for launching self-hosted Kubernetes clusters.
@@ -245,6 +246,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Tilt](https://github.com/tilt-dev/tilt) :fire::fire::fire::fire::fire: - Tilt powers multi-service development and makes sure they behave.
 - :green_heart:[Tye](https://github.com/dotnet/tye) :fire::fire::fire::fire::fire: - Tye is a developer tool that makes developing, testing, and deploying microservices and distributed applications easier.
 - [Aptakube](https://aptakube.com) - A modern, lightweight and multi-cluster desktop client for Kubernetes. Connect to multiple clusters simultaneously to view, edit and manage all your resources.
+- :green_heart:[Kompose](https://github.com/kubernetes/kompose) :fire::fire::fire::fire::fire: - kompose is a tool to help users who are familiar with `docker-compose` move to `Kubernetes`. `kompose` takes a Compose Specification file and translates it into Kubernetes resources
 
 ### Data Processing and Machine Learning
 - :green_heart:[Kubeflow](https://github.com/kubeflow/kubeflow) :fire::fire::fire::fire::fire: - Kubeflow is a Cloud Native platform for machine learning based on Google’s internal machine learning pipelines.
