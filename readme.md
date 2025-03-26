@@ -331,7 +331,8 @@ Items with :green_heart: indicate open source projects.
 - [CKS "Certified Kubernetes security specialist certification](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) :fire::fire::fire::fire: - Kubernetes security resources primarly from material allowed during the exam, and extra optional items to help you advance your container and kubernetes security journey.
 - [How to pass the Certified Kubernetes Administrator (CKA) exam on the first attempt](https://medium.com/faun/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e) - A guide to pass CKA exam
 - [The ultimate CKA "Certfified Kuberenetes Administator" resource since exam inception](https://github.com/walidshaari/Kubernetes-Certified-Administrator)  - An updated repo of offical resources to help you master the CKA exam as well some extra resources to consolidate your kubernetes administration knowledge.
-- [Kubernetes Exam Simulator](https://killer.sh/) - CKS/CKA/CKAD exams scenarios and environment.  
+- [Kubernetes Exam Simulator](https://killer.sh/) - CKS/CKA/CKAD exams scenarios and environment. 
+- [Acing the Certified Kubernetes Administrator Exam](https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam) - CKA exam hands-on guide.  
 
 ## Contribute
 
