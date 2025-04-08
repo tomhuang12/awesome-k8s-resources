@@ -58,7 +58,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kubebox](https://github.com/astefanutti/kubebox) :fire::fire::fire::fire: - Terminal and Web console for Kubernetes
 - :green_heart:[Kubetail](https://github.com/johanhaleby/kubetail) :fire::fire::fire::fire::fire: - Bash script that enables you to aggregate (tail/follow) logs from multiple pods into one stream.
 - :green_heart:[kube-shell](https://github.com/cloudnativelabs/kube-shell) :fire::fire::fire::fire: - Kube-shell: An integrated shell for working with the Kubernetes CLI.
-- 💚[kubecolor](https://github.com/hidetatz/kubecolor) 🔥🔥🔥 - colorizes kubectl output
+- 💚[kubecolor](https://github.com/kubecolor/kubecolor) 🔥🔥🔥 - colorizes kubectl output
 - :green_heart:[kubectl tree](https://github.com/ahmetb/kubectl-tree) :fire::fire::fire::fire: - A kubectl plugin to explore ownership relationships between Kubernetes objects through owners.
 - :green_heart:[kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) :fire::fire::fire::fire::fire: - This repository contains a script to generate hundreds of convenient shell aliases for kubectl.
 - :green_heart:[kubectx + kubens](https://github.com/ahmetb/kubectx) :fire::fire::fire::fire::fire: - `kubectx` helps you switch between clusters back and forth, and `kubens` helps you switch between Kubernetes namespaces smoothly.
