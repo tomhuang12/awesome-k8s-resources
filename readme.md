@@ -88,8 +88,9 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Minikube](https://github.com/kubernetes/minikube) :fire::fire::fire::fire::fire: - minikube implements a local Kubernetes cluster on macOS,Linux,all in a binary less than 100 MB.
 - :green_heart:[Talos Linux](https://github.com/siderolabs/talos) :fire::fire::fire::fire::fire: - Talos Linux is a minimal, immutable, secure OS that installs vanilla Kubernetes - for production datacenters, K8s@home, and Edge.
 - :green_heart:[karpenter]([https://karpenter.sh](https://github.com/aws/karpenter-provider-aws)) :fire::fire::fire::fire::fire: - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [Kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) - kubeadm performs the actions necessary to get a minimum viable cluster up and running.
-
+- :green_heart:[Kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) - kubeadm performs the actions necessary to get a minimum viable cluster up and running.
+- :green_heart:[vCluster](https://github.com/loft-sh/vcluster/) : :fire::fire::fire::fire::fire: - vCluster allows you to create fully functional virtual Kubernetes clusters, drastically reducing costs and improving multi-tenancy and isolation compared to traditional Kubernetes. 
+  
 ### Automation and CI/CD
 - :green_heart:[Argo CD](https://github.com/argoproj/argo-cd) :fire::fire::fire::fire::fire: - Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 - :green_heart:[Argo Events](https://github.com/argoproj/argo-events) :fire::fire::fire::fire: - Argo Events is an event-driven workflow automation framework for Kubernetes which helps you trigger K8s objects, Argo Workflows, Serverless workloads, etc.
