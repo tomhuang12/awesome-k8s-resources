@@ -109,6 +109,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[werf](https://github.com/werf/werf) :fire::fire::fire::fire::fire: - werf is a CLI tool glueing Git, Docker, Helm & Kubernetes with any CI system to implement CI/CD and GitOps. 
 - :green_heart:[Weave GitOps](https://github.com/weaveworks/weave-gitops) :fire::fire: - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
 - :green_heart:[Otomi - Self-hosted PaaS for K8s](https://github.com/redkubes/otomi-core) :fire::fire::fire::fire: - Otomi adds developer- and operations-centric tools, automation, and developer self-service on top of Kubernetes in any infrastructure or cloud, to code, build, release, deploy, secure, operate and monitor containerized applications.
+:green_heart:[Cozystack - Self-hosted PaaS for K8s](https://github.com/cozystack/cozystack) :fire::fire::fire::fire: - a turnkey, self-hosted PaaS built to run on hardened Talos Linux clusters, bringing security-first Kubernetes automation to your own metal. Perfect if you're building sovereign cloud or edge-native stacks.
 
 ### Cluster Resources Management
 - :green_heart:[Clusterpedia](https://github.com/clusterpedia-io/clusterpedia) :fire: - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
