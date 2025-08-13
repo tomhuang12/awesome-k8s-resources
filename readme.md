@@ -94,6 +94,7 @@ Items with :green_heart: indicate open source projects.
 ### Automation and CI/CD
 - :green_heart:[Argo CD](https://github.com/argoproj/argo-cd) :fire::fire::fire::fire::fire: - Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 - :green_heart:[Argo Events](https://github.com/argoproj/argo-events) :fire::fire::fire::fire: - Argo Events is an event-driven workflow automation framework for Kubernetes which helps you trigger K8s objects, Argo Workflows, Serverless workloads, etc.
+- :green_heart:[argonaut](https://github.com/darksworm/argonaut) :fire: - argonaut is a TUI application for managing apps in Argo CD with real-time monitoring, diff viewing, and sync/rollback operations.
 - :green_heart:[Argo Rollouts](https://github.com/argoproj/argo-rollouts) :fire::fire::fire::fire: - Argo Rollouts controller, uses the Rollout custom resource to provide additional deployment strategies such as Blue Green and Canary to Kubernetes.
 - :green_heart:[Argo Workflows](https://github.com/argoproj/argo) :fire::fire::fire::fire::fire: - Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 - :green_heart:[Argocd autopilot](https://github.com/argoproj-labs/argocd-autopilot) :fire::fire::fire: - The Argo-CD Autopilot is a tool which offers an opinionated way of installing Argo-CD and managing GitOps repositories.
