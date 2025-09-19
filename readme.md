@@ -46,6 +46,7 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
 Items with :green_heart: indicate open source projects. 
 
 ### Command Line Tools
+- :green_heart:[Gonzo](https://github.com/control-theory/gonzo) :fire::fire::fire::fire: - A powerful, real-time log analysis terminal UI inspired by k9s. Analyze log streams with beautiful charts, AI-powered insights, and advanced filtering - all from your terminal.
 - :green_heart:[Helm](https://github.com/helm/helm) :fire::fire::fire::fire::fire: - Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources.
 - :green_heart:[Helmfile](https://github.com/helmfile/helmfile) :fire::fire::fire::fire::fire: - Helmfile is a declarative spec for deploying helm charts.
 - :green_heart:[Helmwave](https://github.com/helmwave/helmwave) :fire::fire::fire: - Helmwave is helm3-native tool for deploy your Helm Charts. It is like Docker-Compose, but for Helm.
