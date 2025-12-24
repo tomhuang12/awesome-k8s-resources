@@ -254,6 +254,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Strimzi](https://github.com/strimzi/strimzi-kafka-operator) :fire::fire::fire::fire::fire: - Strimzi provides a way to run an Apache Kafka cluster on Kubernetes or OpenShift in various deployment configurations.
 - :green_heart:[Volcano](https://github.com/volcano-sh/volcano) :fire::fire::fire::fire: - Volcano is a batch system built on Kubernetes.
 - :green_heart:[yunikorn](https://github.com/apache/incubator-yunikorn-core) :fire::fire: - a light-weight, universal resource scheduler for container orchestrator systems.
+- :green_heart:[AgentField](https://github.com/Agent-Field/agentfield) - Open-source infrastructure for AI backends. Kubernetes for orchestration, Okta for identity—the microservices moment for AI agents.
 
 ### Data Management
 - :green_heart:[Kubegres](https://github.com/reactive-tech/kubegres) :fire::fire::fire: - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql pods with data replication and failover enabled out-of-the box.
