@@ -198,6 +198,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[K8Studio](https://github.com/guiqui/k8Studio) :fire::fire::fire: - K8Studio IDE to manage and visualise Kubernetes Clusters.
 - :green_heart:[KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) :fire: - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state.
 
+- [What Broke Today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services (including GKE, EKS, AKS) with real-time Telegram alerts.
 ### Backup and Restore
 - :green_heart:[katafygio](https://github.com/bpineau/katafygio) :fire: - katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository.
 - :green_heart:[Velero](https://github.com/vmware-tanzu/velero) :fire::fire::fire::fire::fire: - Velero (formerly Heptio Ark) gives you tools to back up and restore your Kubernetes cluster resources and persistent volumes.
