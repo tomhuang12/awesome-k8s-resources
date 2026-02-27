@@ -168,6 +168,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[popeye](https://popeyecli.io/) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 - :green_heart:[PowerfulSeal](https://github.com/bloomberg/powerfulseal) :fire::fire::fire::fire: - PowerfulSeal injects failure into your Kubernetes clusters, so that you can detect problems as early as possible.
 - :green_heart:[Testkube](https://github.com/kubeshop/testkube) :fire::fire::fire: - Testkube is a Kubernetes native Testing Framework for test orchestration and execution. It allows you to run any of your tests inside a Kubernetes cluster. Integrates with your CI/CD and allows you to follow a GitOps approach to Testing while having a centralized place for all of your Test Results accross all clusters.
+- [YouBrokeProd](https://youbrokeprod.com) - Interactive game for debugging production incidents including Kubernetes CrashLoopBackOff scenarios alongside 8 other real-world failure simulations.
 
 ### Monitoring, Alerts, and Visualization
 - :green_heart:[BotKube](https://github.com/infracloudio/botkube) :fire::fire::fire::fire: - BotKube integration with Slack or Mattermost helps you monitor your Kubernetes cluster, debug critical deployments and gives recommendations for standard practices by running checks on the Kubernetes resources.
