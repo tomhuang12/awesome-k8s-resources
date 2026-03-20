@@ -156,6 +156,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[chaoskube](https://github.com/linki/chaoskube) :fire::fire::fire::fire: - `chaoskube` periodically kills random pods in your Kubernetes cluster.
 - :green_heart:[Conftest](https://github.com/open-policy-agent/conftest) :fire::fire::fire::fire: - Conftest helps you write tests against structured configuration data.
 - :green_heart:[DETIK](https://github.com/bats-core/bats-detik) :fire: - A library that simplifies end-to-end testing of K8s applications by using [BATS](https://github.com/bats-core/bats-core) assertions and natural language queries.
+- :green_heart:[Jupyter Notebook Validator Operator](https://github.com/tosin2013/jupyter-notebook-validator-operator) :fire: - Kubernetes operator for validating Jupyter notebooks with Papermill, golden comparisons, and model-aware checks; [OperatorHub](https://operatorhub.io/operator/jupyter-notebook-validator-operator).
 - :green_heart:[k6](https://github.com/loadimpact/k6) :fire::fire::fire::fire::fire: - k6 is a modern load testing tool, building on Load Impact's years of experience in the load and performance testing industry.
 - :green_heart:[ksniff](https://github.com/eldadru/ksniff) :fire::fire::fire::fire: - A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster.
 - :green_heart:[Kube DOOM](https://github.com/storax/kubedoom) :fire::fire::fire::fire: - The next level of chaos engineering is here! Kill pods inside your Kubernetes cluster by shooting them in Doom!
