@@ -278,6 +278,8 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kube No Trouble](https://github.com/doitintl/kube-no-trouble) :fire::fire::fire::fire::fire: - Easily check your clusters for use of deprecated APIs
 - :green_heart:[Shell-operator](https://github.com/flant/shell-operator) :fire::fire::fire::fire: - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
 
+- :green_heart:[RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
+
 ## Guides, Documentations, Blogs, and Learnings
 
 ### Guides
