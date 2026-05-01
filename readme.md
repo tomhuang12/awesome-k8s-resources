@@ -124,6 +124,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Pluto](https://github.com/FairwindsOps/pluto) :fire::fire::fire::fire: - Pluto is a utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.
 - :green_heart:[Polaris](https://github.com/FairwindsOps/polaris) :fire::fire::fire::fire::fire: - Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration.
 - :green_heart:[Projectsveltos](https://github.com/projectsveltos/addon-manager) :fire: Projectsveltos is a Kubernetes add-on controller that simplifies the deployment and management of add-ons and applications across multiple clusters.
+- :green_heart:[KubeStellar Console](https://github.com/kubestellar/console) - KubeStellar Console is an AI-powered open-source web dashboard for multi-cluster Kubernetes fleet management with real-time observability, workload deployment, policy and RBAC views, and an MCP bridge for AI coding tools.
 - :green_heart:[The Hierarchical Namespace Controller](https://github.com/kubernetes-sigs/multi-tenancy/tree/master/incubator/hnc) :fire::fire::fire: - Hierarchical namespaces make it easier to share your cluster by making namespaces more powerful.
 
 ### Secrets Management
@@ -181,6 +182,8 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[k8s-image-availability-exporter](https://github.com/flant/k8s-image-availability-exporter) :fire: - Prometheus exporter that warns you proactively about images that are defined in Kubernetes objects but are not available in the container registry. 
 - :green_heart:[kube-capacity](https://github.com/robscott/kube-capacity) :fire::fire::fire: - This is a simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 - :green_heart:[Kubernetes Dashboard](https://github.com/kubernetes/dashboard) :fire::fire::fire::fire::fire: - Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters.
+- :green_heart:[KubeStellar Console](https://github.com/kubestellar/console) :fire: - Multi-cluster Kubernetes dashboard with AI-powered operations and real-time observability across edge and cloud clusters. CNCF Sandbox project.
+- :green_heart:[KubeStellar Console](https://github.com/kubestellar/console) :fire: - AI-powered multi-cluster Kubernetes dashboard with MCP integration for monitoring and managing workloads across hybrid cloud and edge environments.
 - :green_heart:[Kubedev](https://github.com/relferreira/kubedev) :fire: - Kubedev is a powerful and beautiful user interface for managing Kubernetes clusters.
 - :green_heart:[KubeHelper](https://github.com/KubeHelper/kubehelper) :fire: - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
 - :green_heart:[Kubernetes Metrics Server](https://github.com/kubernetes-sigs/metrics-server) :fire::fire::fire::fire::fire: - Metrics Server is a scalable, efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
