@@ -197,6 +197,8 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Thanos](https://github.com/thanos-io/thanos) :fire::fire::fire::fire::fire: - Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity.
 - :green_heart:[K8Studio](https://github.com/guiqui/k8Studio) :fire::fire::fire: - K8Studio IDE to manage and visualise Kubernetes Clusters.
 - :green_heart:[KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) :fire: - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state.
+- :green_heart:[Middleware](https://github.com/middleware-labs/mw-agent) :fire: - Full-stack Kubernetes observability platform providing infrastructure monitoring, distributed tracing, log management, and APM with OpenTelemetry-native support.
+
 
 ### Backup and Restore
 - :green_heart:[katafygio](https://github.com/bpineau/katafygio) :fire: - katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository.
