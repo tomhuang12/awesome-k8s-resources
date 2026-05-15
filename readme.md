@@ -183,6 +183,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kubernetes Dashboard](https://github.com/kubernetes/dashboard) :fire::fire::fire::fire::fire: - Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters.
 - :green_heart:[Kubedev](https://github.com/relferreira/kubedev) :fire: - Kubedev is a powerful and beautiful user interface for managing Kubernetes clusters.
 - :green_heart:[KubeHelper](https://github.com/KubeHelper/kubehelper) :fire: - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
+- :green_heart:[k100s](https://github.com/AndrewVos/k100s) :fire: - k100s is a free, open-source desktop Kubernetes app for switching contexts and namespaces, viewing pods, streaming logs, and opening pod shells.
 - :green_heart:[Kubernetes Metrics Server](https://github.com/kubernetes-sigs/metrics-server) :fire::fire::fire::fire::fire: - Metrics Server is a scalable, efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - :green_heart:[Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) :fire::fire::fire::fire: - A tool that aims to provide a common operational picture for multiple Kubernetes clusters.
 - :green_heart:[kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) :fire::fire::fire::fire::fire: - kube-state-metrics is a simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
