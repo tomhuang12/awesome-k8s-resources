@@ -230,6 +230,7 @@ Items with :green_heart: indicate open source projects.
 
 
 ### Development Tools
+- :green_heart:[AgentTier](https://github.com/agenttier/agenttier) - Kubernetes-native operator that provisions isolated, persistent sandboxes for human developers and AI coding agents through a Sandbox CRD, with built-in governance, optional gVisor isolation, and a streaming agent-mode REST API.
 - :green_heart:[Cyclops](https://github.com/cyclops-ui/cyclops) :fire::fire: - Customizable UI for Kubernetes deployments
 - :green_heart:[Eclipse JKube](https://github.com/eclipse/jkube) :fire::fire: - Tools and plugins for Java developers that help you create container images along with the required manifests to deploy your applications to Kubernetes.
 - :green_heart:[garden](https://github.com/garden-io/garden) :fire::fire::fire::fire::fire: - Garden provides production-like Kubernetes testing environments for integration tests, QA, and development.
