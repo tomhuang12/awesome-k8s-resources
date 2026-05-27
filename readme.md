@@ -251,6 +251,7 @@ Items with :green_heart: indicate open source projects.
 ### Data Processing and Machine Learning
 - :green_heart:[Kubeflow](https://github.com/kubeflow/kubeflow) :fire::fire::fire::fire::fire: - Kubeflow is a Cloud Native platform for machine learning based on Google’s internal machine learning pipelines.
 - :green_heart:[nos](https://github.com/nebuly-ai/nos) :fire::fire: - `nos` is an open-source platform to efficiently run AI workloads on Kubernetes, increasing GPU utilization and reducing infrastructure and operational costs.
+- :green_heart:[keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler) :fire: - A KEDA external scaler that reads NVIDIA GPU metrics directly from NVML and autoscales inference workloads (vLLM, Triton) on Kubernetes, including scale-to-zero.
 - :green_heart:[Strimzi](https://github.com/strimzi/strimzi-kafka-operator) :fire::fire::fire::fire::fire: - Strimzi provides a way to run an Apache Kafka cluster on Kubernetes or OpenShift in various deployment configurations.
 - :green_heart:[Volcano](https://github.com/volcano-sh/volcano) :fire::fire::fire::fire: - Volcano is a batch system built on Kubernetes.
 - :green_heart:[yunikorn](https://github.com/apache/incubator-yunikorn-core) :fire::fire: - a light-weight, universal resource scheduler for container orchestrator systems.
