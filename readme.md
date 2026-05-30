@@ -115,6 +115,7 @@ Items with :green_heart: indicate open source projects.
 ### Cluster Resources Management
 - :green_heart:[Clusterpedia](https://github.com/clusterpedia-io/clusterpedia) :fire: - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
 - :green_heart:[Grafana Tanka](https://github.com/grafana/tanka) :fire::fire::fire::fire: - The clean, concise and super flexible alternative to YAML for your Kubernetes cluster.
+- :green_heart:[Attune](https://github.com/attune-io/attune) - Kubernetes operator for safe, in-place pod resource right-sizing. Uses Prometheus metrics with auto-revert, graduated rollout modes, and HPA coexistence. Modern VPA alternative with no pod restarts.
 - :green_heart:[KEDA](https://github.com/kedacore/keda) :fire::fire::fire::fire::fire: - KEDA allows for fine grained autoscaling (including to/from zero) for event driven Kubernetes workloads.
 - :green_heart:[Kruise](https://github.com/openkruise/kruise) :fire::fire::fire::fire::fire: - Kruise consists of several controllers which extend and complement the Kubernetes core controllers for workload management.
 - :green_heart:[KubeDirector](https://github.com/bluek8s/kubedirector) :fire::fire: - KubeDirector uses standard Kubernetes (K8s) facilities of custom resources and API extensions to implement stateful scaleout application clusters.
