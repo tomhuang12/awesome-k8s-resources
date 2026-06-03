@@ -48,6 +48,7 @@ Items with :green_heart: indicate open source projects.
 ### Command Line Tools
 - :green_heart:[Helm](https://github.com/helm/helm) :fire::fire::fire::fire::fire: - Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources.
 - :green_heart:[Infra](https://github.com/infrahq/infra) :fire::fire::fire: - Infra enables you to discover and access infrastructure (e.g. Kubernetes, databases). We help you connect an identity provider such as Okta or Azure active directory, and map users/groups with the permissions you set to your infrastructure.
+- :green_heart:[K8Studio](https://k8studio.io) - Cross-platform desktop IDE for Kubernetes cluster management (macOS/Windows/Linux). Features CloudMaps™ cluster visualization, AI Copilot, multi-cluster management, RBAC management, Helm GUI, advanced log viewer, and air-gapped/offline support. Agent-free architecture.
 - :green_heart:[K9s](https://github.com/derailed/k9s) :fire::fire::fire::fire::fire: - K9s provides a terminal UI to interact with your Kubernetes clusters.
 - :green_heart:[kapp](https://github.com/vmware-tanzu/carvel-kapp) :fire::fire::fire: - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 - :green_heart:[kconnect](https://github.com/fidelity/kconnect) :fire::fire: - kconnect is a CLI utility that can be used to discover and securely access Kubernetes clusters across multiple operating environments.
