@@ -192,6 +192,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Network mapper](https://github.com/otterize/network-mapper) :fire::fire: - Map Kubernetes in-cluster traffic and export as text, intents, or an image.
 - :green_heart:[Popeye](https://github.com/derailed/popeye) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 - :green_heart:[Prometheus](https://github.com/prometheus/prometheus) :fire::fire::fire::fire::fire: - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.
+- :green_heart:[Radar](https://github.com/skyhook-io/radar) :fire::fire::fire::fire::fire: - Radar is a local-first Kubernetes UI with topology, event timeline, service traffic, resource browsing, Helm management, GitOps workflows, and built-in MCP for AI assistants.
 - :green_heart:[Searchlight](https://github.com/searchlight/searchlight) :fire::fire: - Searchlight/Icinga periodically runs various checks on a Kubernetes cluster and sends notifications if detects an issue.
 - :green_heart:[Sloop](https://github.com/salesforce/sloop) :fire::fire::fire: - Sloop monitors Kubernetes, recording histories of events and resource state changes and providing visualizations to aid in debugging past events.
 - :green_heart:[Thanos](https://github.com/thanos-io/thanos) :fire::fire::fire::fire::fire: - Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity.
