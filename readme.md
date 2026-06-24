@@ -125,6 +125,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Polaris](https://github.com/FairwindsOps/polaris) :fire::fire::fire::fire::fire: - Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration.
 - :green_heart:[Projectsveltos](https://github.com/projectsveltos/addon-manager) :fire: Projectsveltos is a Kubernetes add-on controller that simplifies the deployment and management of add-ons and applications across multiple clusters.
 - :green_heart:[The Hierarchical Namespace Controller](https://github.com/kubernetes-sigs/multi-tenancy/tree/master/incubator/hnc) :fire::fire::fire: - Hierarchical namespaces make it easier to share your cluster by making namespaces more powerful.
+- [Krust](https://krust.io/) - Native macOS Kubernetes dashboard for resources, logs, YAML, Helm, CRDs, topology, and AI diagnostics.
 
 ### Secrets Management
 - :green_heart:[Kubernetes External Secrets](https://github.com/godaddy/kubernetes-external-secrets) :fire::fire::fire::fire::fire: - Kubernetes External Secrets allows you to use external secret management systems, like AWS Secrets Manager or HashiCorp Vault, to securely add secrets in Kubernetes.
