@@ -267,6 +267,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[AWS Controllers for Kubernetes](https://github.com/aws/aws-controllers-k8s) :fire::fire::fire::fire: - AWS Controllers for Kubernetes (ACK) lets you define and use AWS service resources directly from Kubernetes.
 - :green_heart:[AWS Node Termination Handler](https://github.com/aws/aws-node-termination-handler) :fire::fire::fire: - A Kubernetes Daemonset to gracefully handle EC2 instance shutdown
 - :green_heart:[Brigade](https://github.com/brigadecore/brigade/) :fire::fire::fire::fire::fire: - Brigade is the tool for creating pipelines for Kubernetes.
+- :green_heart:[Cocoon Operator](https://github.com/cocoonstack/cocoon-operator) - A Kubernetes operator that manages VM-backed agent pods through CocoonSet and CocoonHibernation CRDs on Cocoon MicroVMs.
 - :green_heart:[Crossplane](https://github.com/crossplane/crossplane) :fire::fire::fire::fire::fire: - Crossplane is an open source Kubernetes add-on that extends any cluster with the ability to provision and manage cloud infrastructure, services, and applications.
 - :green_heart:[Descheduler for Kubernetes](https://github.com/kubernetes-sigs/descheduler) :fire::fire::fire::fire::fire: - Descheduling pods from nodes based on policies
 - :green_heart:[Devtron](https://github.com/devtron-labs/devtron) :fire::fire::fire::fire: - It is designed as a self-serve platform for operationalizing and maintaining applications (AppOps) on kubernetes in a developer friendly way.
