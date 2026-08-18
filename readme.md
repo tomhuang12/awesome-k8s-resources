@@ -300,6 +300,7 @@ Items with :green_heart: indicate open source projects.
 
 ### Blogs and Videos
 - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/) - Common pitfalls and how to avoid them.  
+- [Kubernetes CPU limits: the mistake, the why, and proof](https://github.com/inevolin/k8s-cpu-limits-analyzed) - A reproducible benchmark showing how CPU limits cause throttling and OOM kills.
 - [How the Department of Defense Moved to Kubernetes and Istio](https://www.youtube.com/watch?v=YjZ4AZ7hRM0) - Focus on the sidecar security stack leveraging Envoy and sidecar containers to ensure zero trust security and baked-in multi-layer security.  
 - [Kubernetes at Reddit: Tales from Production](https://youtu.be/WTbIBqNcjoQ) - Hear of successes, share in the heartbreak of production explosions, and gain insight into what has and hasn't worked well for one of the world's busiest web properties.  
 - [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories) :fire::fire::fire::fire::fire: - A compiled list of links to public failure stories related to Kubernetes.  
