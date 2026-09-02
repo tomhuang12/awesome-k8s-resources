@@ -164,6 +164,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Kubectl-debug](https://github.com/JamesTGrant/kubectl-debug) :fire::fire::fire::fire::fire: - `kubectl-debug` is an out-of-tree solution for troubleshooting running pods, which allows you to run a new container in running pods for debugging purpose.
 - :green_heart:[KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) :fire::fire::fire: - Through KubeInvaders you can stress Kubernetes cluster in a fun way and check how it is resilient.
 - :green_heart:[Kubetest](https://github.com/vapor-ware/kubetest) :fire: - Kubetest is a pytest plugin that makes it easier to manage a Kubernetes cluster within your integration tests.
+- :green_heart:[Kure Monitor](https://github.com/igor-koricanac/kure-monitor) - Kure monitor is a troubleshoot and security scan tool with AI integration. It helps dev to speed up failing pods troubleshoot and to improve cluster security.
 - :green_heart:[Litmus](https://github.com/litmuschaos/litmus) :fire::fire::fire::fire::fire: - Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments.
 - :green_heart:[popeye](https://popeyecli.io/) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 - :green_heart:[PowerfulSeal](https://github.com/bloomberg/powerfulseal) :fire::fire::fire::fire: - PowerfulSeal injects failure into your Kubernetes clusters, so that you can detect problems as early as possible.
