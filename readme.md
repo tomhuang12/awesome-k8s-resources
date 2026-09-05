@@ -264,6 +264,7 @@ Items with :green_heart: indicate open source projects.
 
 ### Miscellaneous
 - :green_heart:[Agones](https://github.com/googleforgames/agones) :fire::fire::fire::fire::fire: - Agones is a library for hosting, running and scaling dedicated game servers on Kubernetes.
+- :green_heart:[arch-map](https://github.com/fabiocicerchia/arch-map) - Living C4 architecture diagrams from Terraform state + live Kubernetes, committed as Mermaid.
 - :green_heart:[AWS Controllers for Kubernetes](https://github.com/aws/aws-controllers-k8s) :fire::fire::fire::fire: - AWS Controllers for Kubernetes (ACK) lets you define and use AWS service resources directly from Kubernetes.
 - :green_heart:[AWS Node Termination Handler](https://github.com/aws/aws-node-termination-handler) :fire::fire::fire: - A Kubernetes Daemonset to gracefully handle EC2 instance shutdown
 - :green_heart:[Brigade](https://github.com/brigadecore/brigade/) :fire::fire::fire::fire::fire: - Brigade is the tool for creating pipelines for Kubernetes.
