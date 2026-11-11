@@ -190,6 +190,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Lens](https://github.com/lensapp/lens) :fire::fire::fire::fire::fire: - Lens it's an useful, attractive, open source user interface (UI) for working with Kubernetes clusters.
 - :green_heart:[Mizu](https://github.com/up9inc/mizu) :fire::fire::fire: - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 - :green_heart:[Network mapper](https://github.com/otterize/network-mapper) :fire::fire: - Map Kubernetes in-cluster traffic and export as text, intents, or an image.
+- :green_heart:[pg-regression-radar](https://github.com/joao00001/pg-regression-radar) :fire: - Detects PostgreSQL query performance regressions and pinpoints which Kubernetes deployment caused them.
 - :green_heart:[Popeye](https://github.com/derailed/popeye) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 - :green_heart:[Prometheus](https://github.com/prometheus/prometheus) :fire::fire::fire::fire::fire: - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.
 - :green_heart:[Searchlight](https://github.com/searchlight/searchlight) :fire::fire: - Searchlight/Icinga periodically runs various checks on a Kubernetes cluster and sends notifications if detects an issue.
